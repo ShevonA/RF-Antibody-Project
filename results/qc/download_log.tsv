@@ -1,0 +1,9 @@
+record_id	species_common	receptor	accession	route	status	sequence_length	output_file	message
+human_NKG2A_uniprot_P26715	human	NKG2A	P26715	uniprot	downloaded	233	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\human_NKG2A_uniprot_P26715.fasta	
+human_NKG2A_refseq_NP_002250_2	human	NKG2A	NP_002250.2	ncbi	downloaded	233	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\human_NKG2A_refseq_NP_002250_2.fasta	
+human_NKG2A_isoform_C_JC	human	NKG2A	NP_001291377.1	ncbi	downloaded	228	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\human_NKG2A_isoform_C_JC.fasta	
+human_NKG2C_refseq_NP_002251_2	human	NKG2C	NP_002251.2	ncbi	downloaded	231	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\human_NKG2C_refseq_NP_002251_2.fasta	
+rhesus_NKG2A_refseq_NP_001028001_2	rhesus_macaque	NKG2A	NP_001028001.2	ncbi	downloaded	233	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\rhesus_NKG2A_refseq_NP_001028001_2.fasta	
+rhesus_NKG2C_refseq_NP_001098647_2	rhesus_macaque	NKG2C	NP_001098647.2	ncbi	downloaded	231	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\rhesus_NKG2C_refseq_NP_001098647_2.fasta	
+rhesus_NKG2C2_legacy_NP_001038194_2	rhesus_macaque	NKG2C	NP_001038194.2	ncbi	downloaded	246	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\rhesus_NKG2C2_legacy_NP_001038194_2.fasta	
+human_CD94	human	CD94	Q13241	uniprot	downloaded	179	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\human_CD94.fasta	
