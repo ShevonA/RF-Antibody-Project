@@ -1,0 +1,12 @@
+query_id	species	target	database	query
+mn_nkg2a_strict	Macaca nemestrina	NKG2A	protein	"(""Macaca nemestrina""[Organism]) AND (KLRC1[Gene Name] OR ""NKG2-A""[Protein Name] OR NKG2A[All Fields])"
+mn_nkg2c_strict	Macaca nemestrina	NKG2C	protein	"(""Macaca nemestrina""[Organism]) AND (KLRC2[Gene Name] OR KLRC3[Gene Name] OR KLRC4[Gene Name] OR ""NKG2-C""[Protein Name] OR NKG2C[All Fields])"
+mn_klrc_broad	Macaca nemestrina	KLRC locus candidates	protein	"(""Macaca nemestrina""[Organism]) AND (""killer cell lectin like receptor C""[Protein Name] OR KLRC[All Fields])"
+mn_cd94	Macaca nemestrina	CD94	protein	"(""Macaca nemestrina""[Organism]) AND (KLRD1[Gene Name] OR CD94[All Fields])"
+mm_nkg2a	Macaca mulatta	NKG2A	protein	"(""Macaca mulatta""[Organism]) AND (KLRC1[Gene Name] OR NKG2A[All Fields] OR ""NKG2-A""[Protein Name])"
+mm_nkg2c_all	Macaca mulatta	all NKG2C paralogs	protein	"(""Macaca mulatta""[Organism]) AND (KLRC2[Gene Name] OR KLRC3[Gene Name] OR KLRC4[Gene Name] OR ""NKG2-C""[Protein Name] OR NKG2C[All Fields])"
+mm_klrc2	Macaca mulatta	rhKLRC2 / NKG2C-1	protein	"(""Macaca mulatta""[Organism]) AND KLRC2[Gene Name]"
+mm_klrc3	Macaca mulatta	rhKLRC3 / NKG2C-2	protein	"(""Macaca mulatta""[Organism]) AND KLRC3[Gene Name]"
+mm_klrc4	Macaca mulatta	rhKLRC4 / NKG2C-3	protein	"(""Macaca mulatta""[Organism]) AND KLRC4[Gene Name]"
+mm_cd94	Macaca mulatta	CD94	protein	"(""Macaca mulatta""[Organism]) AND (KLRD1[Gene Name] OR CD94[All Fields])"
+hs_controls	Homo sapiens	NKG2A/NKG2C controls	protein	"(""Homo sapiens""[Organism]) AND (KLRC1[Gene Name] OR KLRC2[Gene Name]) AND refseq[filter]"

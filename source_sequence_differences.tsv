@@ -1,0 +1,42 @@
+pair_id	alignment_column	position_a	residue_a	position_b	residue_b	change_type
+human_NKG2A_canonical_vs_JC_isoformC	29	29	N	29	S	substitution
+human_NKG2A_canonical_vs_JC_isoformC	229	229	C		-	residue_only_in_a
+human_NKG2A_canonical_vs_JC_isoformC	230	230	K		-	residue_only_in_a
+human_NKG2A_canonical_vs_JC_isoformC	231	231	H		-	residue_only_in_a
+human_NKG2A_canonical_vs_JC_isoformC	232	232	K		-	residue_only_in_a
+human_NKG2A_canonical_vs_JC_isoformC	233	233	L		-	residue_only_in_a
+rhesus_NKG2A_reviewed_vs_JC	20	20	Q	20	K	substitution
+rhesus_NKG2A_reviewed_vs_JC	41	41	A	41	V	substitution
+rhesus_NKG2A_reviewed_vs_JC	56	56	D	56	Y	substitution
+rhesus_NKG2A_reviewed_vs_JC	65	65	L	65	P	substitution
+rhesus_NKG2A_reviewed_vs_JC	67	67	A	67	V	substitution
+rhesus_NKG2A_reviewed_vs_JC	183	183	H	183	Q	substitution
+rhesus_NKG2A_reviewed_vs_JC	200	200	E	200	D	substitution
+rhesus_NKG2A_reviewed_vs_JC	203	203	H	203	N	substitution
+rhesus_NKG2A_reviewed_vs_JC	213	213	V	213	A	substitution
+rhesus_NKG2A_reviewed_vs_JC	217	217	F	217	K	substitution
+rhesus_NKG2A_reviewed_vs_JC	220	220	E	220	R	substitution
+rhesus_NKG2C_reviewed_vs_JC	26	26	D	26	G	substitution
+rhesus_NKG2C_reviewed_vs_JC	35	35	K	35	E	substitution
+rhesus_NKG2C_reviewed_vs_JC	91	91	V	91	I	substitution
+rhesus_NKG2C_reviewed_vs_JC	96	96	F	96	L	substitution
+rhesus_NKG2C_reviewed_vs_JC	103	103	F	103	S	substitution
+rhesus_NKG2C_reviewed_vs_JC	107	107	R	107	T	substitution
+rhesus_NKG2C_reviewed_vs_JC	146	146	T	146	A	substitution
+rhesus_NKG2C_reviewed_vs_JC	166	166	A	166	S	substitution
+rhesus_NKG2C_reviewed_vs_JC	168	168	S	168	L	substitution
+rhesus_NKG2C_reviewed_vs_JC	169	169	P	169	S	substitution
+rhesus_NKG2C_reviewed_vs_JC	171	171	T	171	S	substitution
+rhesus_NKG2C_reviewed_vs_JC	173	173	T	173	I	substitution
+rhesus_NKG2C_reviewed_vs_JC	174	174	G	174	D	substitution
+rhesus_NKG2C_reviewed_vs_JC	198	198	D	198	E	substitution
+rhesus_NKG2C_reviewed_vs_JC	201	201	H	201	N	substitution
+rhesus_NKG2C_reviewed_vs_JC	204	204	Y	204	H	substitution
+rhesus_NKG2C_reviewed_vs_JC	211	211	L	211	V	substitution
+rhesus_NKG2C_reviewed_vs_JC	212	212	D	212	R	substitution
+rhesus_NKG2C_reviewed_vs_JC	213	213	R	213	G	substitution
+rhesus_NKG2C_reviewed_vs_JC	215	215	K	215	F	substitution
+rhesus_NKG2C_reviewed_vs_JC	217	217	V	217	D	substitution
+rhesus_NKG2C_reviewed_vs_JC	218	218	Q	218	E	substitution
+rhesus_NKG2C_reviewed_vs_JC	224	224	R	224	I	substitution
+rhesus_NKG2C_reviewed_vs_JC	226	226	Y	226	H	substitution

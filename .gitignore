@@ -1,0 +1,57 @@
+# ============================================
+# RF Antibody Project - Git Ignore
+# ============================================
+
+# R / Positron temporary files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / credentials
+.env
+*.key
+credentials.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+
+# RFantibody large/generated files
+rfantibody/weights/
+rfantibody/checkpoints/
+rfantibody/outputs/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# AlphaFold / structure prediction bulk outputs
+alphafold/outputs/
+colabfold/outputs/
+
+# Archive of earlier trial work
+Archive of old trial/

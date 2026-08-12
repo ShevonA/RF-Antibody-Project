@@ -1,0 +1,7 @@
+record_id	species	receptor	length	expected_length	md5	illegal_residues	best_hydrophobic_window_start	best_hydrophobic_window_end	hydrophobic_fraction	hydrophobic_window	cysteine_count_full	ectodomain_length	ectodomain_cysteine_count	ectodomain_NXS_T_motifs	status	issues
+human_NKG2A_uniprot_P26715	Homo sapiens	NKG2A	233	233	9153f272506351833c0a64dd9fbcb702		71	93	0.826	LIVGILGIICLILMASVVTIVVI	9	140	7	N102NS,N151SS,N180SS	PASS	
+human_NKG2A_isoform_C_JC	Homo sapiens	NKG2A	228	228	637f35b88eb1b9c2ff61b433bdf45638		71	93	0.826	LIVGILGIICLILMASVVTIVVI	8	135	6	N102NS,N151SS,N180SS	PASS	
+human_NKG2C_refseq_NP_002251_2	Homo sapiens	NKG2C	231	231	2600f9e1d60c3d5d889f18e5abbf9587		75	97	0.783	VLGIICIVLMATVLKTIVLIPFL	9	138	7	N101FS,N149SS,N178SS	PASS	
+rhesus_NKG2A_refseq_NP_001028001_2	Macaca mulatta	NKG2A	233	233	3fce7e241ff988934d5f7392f35c2a8f		71	93	0.826	LIAGILGIICLVLMASVVTIVVI	9	140	7	N102NS,N151SS	PASS	
+rhesus_NKG2C_refseq_NP_001098647_2	Macaca mulatta	NKG2C	231	231	9d0fa4c8faf0a307bac66001cabf0880		75	97	0.783	VLGIICIVLMATVLKTIVLIPLL	9	138	7	N100NS,N105TT,N149SS	PASS	
+rhesus_NKG2C2_legacy_NP_001038194_2	Macaca mulatta	NKG2C	246	246	417cf9504a4c0bd0d8acedeba10bb2e0		71	93	0.739	LTAEVLGIICIVLMATVLKTIVL	9	153	7	N101SS,N115NS,N164SS,N193SS	PASS	
