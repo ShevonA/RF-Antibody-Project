@@ -1,0 +1,142 @@
+alignment_column	human_NKG2A_residue	human_NKG2A_aa	human_NKG2C_residue	human_NKG2C_aa	human_A_vs_C_diff	rhesus_NKG2A_residue	rhesus_NKG2A_aa	rhesus_NKG2C1_residue	rhesus_NKG2C1_aa	rhesus_A_vs_C1_diff	rhesus_NKG2C2_residue	rhesus_NKG2C2_aa	rhesus_A_vs_C2_diff	pigtail_NKG2A_residue	pigtail_NKG2A_aa	pigtail_NKG2C_residue	pigtail_NKG2C_aa	pigtail_A_vs_C_diff	macaque_NKG2A_same	classification	sequence_priority
+1		-	94	I	yes		-	94	I	yes	94	I	yes		-	94	I	yes	no	pan_species_NKG2A_vs_NKG2C_difference	moderate_sequence_interest
+2	94	P	95	P	no	94	P	95	P	no	95	P	no	94	P	95	P	no	yes	fully_conserved_A_C	
+3	95	S		-	yes	95	S		-	yes		-	yes	95	S		-	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+4	96	T		-	yes	96	T		-	yes		-	yes	96	T		-	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+5	97	L		-	yes	97	L		-	yes		-	yes	97	L		-	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+6	98	I	96	F	yes	98	T	96	F	yes	96	F	yes	98	T	96	F	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+7	99	Q	97	L	yes	99	Q	97	L	yes	97	L	yes	99	Q	97	L	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+8	100	R	98	E	yes	100	K	98	E	yes	98	E	yes	100	K	98	E	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+9	101	H	99	Q	yes	101	H	99	Q	yes	99	Q	yes	101	H	99	Q	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+10	102	N	100	N	no	102	N	100	N	no	100	N	no	102	N	100	N	no	yes	fully_conserved_A_C	
+11	103	N	101	N	no	103	N	101	N	no	101	N	no	103	N	101	N	no	yes	fully_conserved_A_C	
+12	104	S	102	F	yes	104	S	102	S	no	102	S	no	104	S	102	S	no	yes	other_difference_pattern	
+13	105	S	103	S	no	105	S	103	F	yes	103	S	no	105	S	103	F	yes	yes	rhesus_isoform_dependent_difference	caution_rhesus_isoform_variability
+14	106	L	104	P	yes	106	L	104	P	yes	104	P	yes	106	L	104	P	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+15	107	N	105	N	no	107	N	105	N	no	105	N	no	107	N	105	N	no	yes	fully_conserved_A_C	
+16	108	T	106	T	no	108	T	106	T	no	106	T	no	108	T	106	T	no	yes	fully_conserved_A_C	
+17	109	R	107	R	no	109	R	107	R	no	107	R	no	109	R	107	R	no	yes	fully_conserved_A_C	
+18	110	T	108	T	no	110	T	108	T	no	108	T	no	110	S	108	T	yes	no	pigtail_specific_difference	pigtail_specific_interest
+19	111	Q	109	Q	no	111	Q	109	Q	no	109	Q	no	111	Q	109	Q	no	yes	fully_conserved_A_C	
+20	112	K	110	K	no	112	K	110	K	no	110	K	no	112	K	110	K	no	yes	fully_conserved_A_C	
+21	113	A	111	A	no	113	A	111	V	yes	111	V	yes	113	A	111	V	yes	yes	macaque_shared_difference	high_macaque_interest
+22	114	R	112	R	no	114	R	112	R	no	112	R	no	114	R	112	R	no	yes	fully_conserved_A_C	
+23	115	H	113	H	no	115	H	113	H	no	113	H	no	115	H	113	H	no	yes	fully_conserved_A_C	
+24	116	C	114	C	no	116	C	114	C	no	114	C	no	116	C	114	C	no	yes	fully_conserved_A_C	
+25	117	G	115	G	no	117	G	115	G	no	115	G	no	117	G	115	G	no	yes	fully_conserved_A_C	
+26	118	H	116	H	no	118	H	116	H	no	116	H	no	118	H	116	H	no	yes	fully_conserved_A_C	
+27	119	C	117	C	no	119	C	117	C	no	117	C	no	119	C	117	C	no	yes	fully_conserved_A_C	
+28	120	P	118	P	no	120	P	118	P	no	118	P	no	120	P	118	P	no	yes	fully_conserved_A_C	
+29	121	E	119	E	no	121	E	119	E	no	119	E	no	121	K	119	E	yes	no	pigtail_specific_difference	pigtail_specific_interest
+30	122	E	120	E	no	122	E	120	E	no	120	E	no	122	E	120	E	no	yes	fully_conserved_A_C	
+31	123	W	121	W	no	123	W	121	W	no	121	W	no	123	W	121	W	no	yes	fully_conserved_A_C	
+32	124	I	122	I	no	124	I	122	I	no	122	I	no	124	I	122	I	no	yes	fully_conserved_A_C	
+33	125	T	123	T	no	125	T	123	T	no	123	T	no	125	T	123	T	no	yes	fully_conserved_A_C	
+34	126	Y	124	Y	no	126	Y	124	Y	no	124	Y	no	126	Y	124	Y	no	yes	fully_conserved_A_C	
+35	127	S	125	S	no	127	S	125	S	no	125	S	no	127	S	125	S	no	yes	fully_conserved_A_C	
+36	128	N	126	N	no	128	N	126	K	yes	126	K	yes	128	N	126	N	no	yes	rhesus_specific_difference	
+37	129	S	127	S	no	129	S	127	S	no	127	S	no	129	S	127	S	no	yes	fully_conserved_A_C	
+38	130	C	128	C	no	130	C	128	C	no	128	C	no	130	C	128	C	no	yes	fully_conserved_A_C	
+39	131	Y	129	Y	no	131	Y	129	Y	no	129	Y	no	131	Y	129	Y	no	yes	fully_conserved_A_C	
+40	132	Y	130	Y	no	132	Y	130	Y	no	130	Y	no	132	Y	130	Y	no	yes	fully_conserved_A_C	
+41	133	I	131	I	no	133	I	131	I	no	131	I	no	133	I	131	I	no	yes	fully_conserved_A_C	
+42	134	G	132	G	no	134	G	132	G	no	132	G	no	134	G	132	G	no	yes	fully_conserved_A_C	
+43	135	K	133	K	no	135	K	133	K	no	133	K	no	135	K	133	K	no	yes	fully_conserved_A_C	
+44	136	E	134	E	no	136	E	134	E	no	134	E	no	136	E	134	E	no	yes	fully_conserved_A_C	
+45	137	R	135	R	no	137	K	135	K	no	135	K	no	137	K	135	K	no	yes	fully_conserved_A_C	
+46	138	R	136	R	no	138	R	136	R	no	136	R	no	138	R	136	R	no	yes	fully_conserved_A_C	
+47	139	T	137	T	no	139	T	137	T	no	137	T	no	139	T	137	T	no	yes	fully_conserved_A_C	
+48	140	W	138	W	no	140	W	138	W	no	138	W	no	140	W	138	W	no	yes	fully_conserved_A_C	
+49	141	E	139	E	no	141	A	139	A	no	139	A	no	141	A	139	A	no	yes	fully_conserved_A_C	
+50	142	E	140	E	no	142	E	140	E	no	140	E	no	142	E	140	E	no	yes	fully_conserved_A_C	
+51	143	S	141	S	no	143	S	141	S	no	141	S	no	143	S	141	S	no	yes	fully_conserved_A_C	
+52	144	L	142	L	no	144	L	142	L	no	142	L	no	144	L	142	L	no	yes	fully_conserved_A_C	
+53	145	L	143	L	no	145	L	143	L	no	143	L	no	145	L	143	L	no	yes	fully_conserved_A_C	
+54	146	A	144	A	no	146	A	144	A	no	144	A	no	146	A	144	A	no	yes	fully_conserved_A_C	
+55	147	C	145	C	no	147	C	145	C	no	145	C	no	147	C	145	C	no	yes	fully_conserved_A_C	
+56	148	T	146	T	no	148	A	146	T	yes	146	T	yes	148	T	146	A	yes	no	macaque_shared_difference	moderate_macaque_interest
+57	149	S	147	S	no	149	S	147	S	no	147	S	no	149	S	147	S	no	yes	fully_conserved_A_C	
+58	150	K	148	K	no	150	K	148	K	no	148	K	no	150	K	148	K	no	yes	fully_conserved_A_C	
+59	151	N	149	N	no	151	N	149	N	no	149	N	no	151	N	149	N	no	yes	fully_conserved_A_C	
+60	152	S	150	S	no	152	S	150	S	no	150	S	no	152	S	150	S	no	yes	fully_conserved_A_C	
+61	153	S	151	S	no	153	S	151	S	no	151	S	no	153	S	151	S	no	yes	fully_conserved_A_C	
+62	154	L	152	L	no	154	L	152	L	no	152	L	no	154	L	152	L	no	yes	fully_conserved_A_C	
+63	155	L	153	L	no	155	L	153	L	no	153	L	no	155	L	153	L	no	yes	fully_conserved_A_C	
+64	156	S	154	S	no	156	S	154	S	no	154	S	no	156	S	154	S	no	yes	fully_conserved_A_C	
+65	157	I	155	I	no	157	I	155	I	no	155	I	no	157	I	155	I	no	yes	fully_conserved_A_C	
+66	158	D	156	D	no	158	D	156	D	no	156	D	no	158	D	156	D	no	yes	fully_conserved_A_C	
+67	159	N	157	N	no	159	N	157	N	no	157	N	no	159	N	157	N	no	yes	fully_conserved_A_C	
+68	160	E	158	E	no	160	E	158	E	no	158	E	no	160	E	158	E	no	yes	fully_conserved_A_C	
+69	161	E	159	E	no	161	E	159	E	no	159	E	no	161	E	159	E	no	yes	fully_conserved_A_C	
+70	162	E	160	E	no	162	E	160	E	no	160	E	no	162	E	160	E	no	yes	fully_conserved_A_C	
+71	163	M	161	M	no	163	M	161	M	no	161	M	no	163	M	161	M	no	yes	fully_conserved_A_C	
+72	164	K	162	K	no	164	K	162	K	no	162	K	no	164	K	162	K	no	yes	fully_conserved_A_C	
+73	165	F	163	F	no	165	F	163	F	no	163	F	no	165	F	163	F	no	yes	fully_conserved_A_C	
+74	166	L	164	L	no	166	L	164	L	no	164	L	no	166	L	164	L	no	yes	fully_conserved_A_C	
+75	167	S	165	A	yes	167	T	165	T	no	165	T	no	167	T	165	T	no	yes	other_difference_pattern	
+76	168	I	166	S	yes	168	A	166	S	yes	166	S	yes	168	A	166	A	no	yes	human_rhesus_shared_difference	
+77	169	I	167	I	no	169	I	167	I	no	167	I	no	169	I	167	I	no	yes	fully_conserved_A_C	
+78	170	S	168	L	yes	170	L	168	L	no	168	L	no	170	L	168	L	no	yes	other_difference_pattern	
+79	171	P	169	P	no	171	T	169	S	yes	169	S	yes	171	S	169	P	yes	no	macaque_shared_difference	moderate_macaque_interest
+80	172	S	170	S	no	172	S	170	S	no	170	S	no	172	S	170	S	no	yes	fully_conserved_A_C	
+81	173	S	171	S	no	173	S	171	S	no	171	S	no	173	S	171	S	no	yes	fully_conserved_A_C	
+82	174	W	172	W	no	174	W	172	W	no	172	W	no	174	W	172	W	no	yes	fully_conserved_A_C	
+83	175	I	173	I	no	175	I	173	I	no	173	I	no	175	I	173	I	no	yes	fully_conserved_A_C	
+84	176	G	174	G	no	176	D	174	D	no	174	D	no	176	D	174	G	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+85	177	V	175	V	no	177	V	175	V	no	175	V	no	177	V	175	V	no	yes	fully_conserved_A_C	
+86	178	F	176	F	no	178	F	176	F	no	176	F	no	178	F	176	F	no	yes	fully_conserved_A_C	
+87	179	R	177	R	no	179	R	177	R	no	177	R	no	179	R	177	R	no	yes	fully_conserved_A_C	
+88	180	N	178	N	no	180	D	178	D	no	178	D	no	180	D	178	D	no	yes	fully_conserved_A_C	
+89	181	S	179	S	no	181	S	179	S	no	179	S	no	181	S	179	S	no	yes	fully_conserved_A_C	
+90	182	S	180	S	no	182	S	180	S	no	180	S	no	182	S	180	S	no	yes	fully_conserved_A_C	
+91	183	H	181	H	no	183	H	181	H	no	181	H	no	183	H	181	H	no	yes	fully_conserved_A_C	
+92	184	H	182	H	no	184	H	182	H	no	182	H	no	184	H	182	H	no	yes	fully_conserved_A_C	
+93	185	P	183	P	no	185	P	183	P	no	183	P	no	185	P	183	P	no	yes	fully_conserved_A_C	
+94	186	W	184	W	no	186	W	184	W	no	184	W	no	186	W	184	W	no	yes	fully_conserved_A_C	
+95	187	V	185	V	no	187	V	185	V	no	185	V	no	187	V	185	V	no	yes	fully_conserved_A_C	
+96	188	T	186	T	no	188	T	186	T	no	186	T	no	188	T	186	T	no	yes	fully_conserved_A_C	
+97	189	M	187	I	yes	189	I	187	I	no	187	I	no	189	I	187	I	no	yes	other_difference_pattern	
+98	190	N	188	N	no	190	N	188	N	no	188	N	no	190	N	188	N	no	yes	fully_conserved_A_C	
+99	191	G	189	G	no	191	G	189	G	no	189	G	no	191	G	189	G	no	yes	fully_conserved_A_C	
+100	192	L	190	L	no	192	L	190	L	no	190	L	no	192	L	190	L	no	yes	fully_conserved_A_C	
+101	193	A	191	A	no	193	T	191	T	no	191	T	no	193	T	191	T	no	yes	fully_conserved_A_C	
+102	194	F	192	F	no	194	F	192	F	no	192	F	no	194	F	192	F	no	yes	fully_conserved_A_C	
+103	195	K	193	K	no	195	K	193	K	no	193	K	no	195	K	193	K	no	yes	fully_conserved_A_C	
+104	196	H	194	H	no	196	H	194	H	no	194	H	no	196	H	194	H	no	yes	fully_conserved_A_C	
+105	197	E	195	K	yes	197	E	195	E	no	195	E	no	197	E	195	E	no	yes	other_difference_pattern	
+106	198	I	196	I	no	198	I	196	I	no	196	I	no	198	I	196	I	no	yes	fully_conserved_A_C	
+107	199	K	197	K	no	199	K	197	K	no	197	K	no	199	K	197	K	no	yes	fully_conserved_A_C	
+108	200	D	198	D	no	200	E	198	E	no	198	E	no	200	E	198	E	no	yes	fully_conserved_A_C	
+109	201	S	199	S	no	201	S	199	S	no	199	S	no	201	S	199	S	no	yes	fully_conserved_A_C	
+110	202	D	200	D	no	202	D	200	D	no	200	D	no	202	G	200	D	yes	no	pigtail_specific_difference	pigtail_specific_interest
+111	203	N	201	N	no	203	H	201	N	yes	201	N	yes	203	H	201	H	no	yes	rhesus_specific_difference	
+112	204	A	202	A	no	204	A	202	A	no	202	A	no	204	A	202	A	no	yes	fully_conserved_A_C	
+113	205	E	203	E	no	205	E	203	E	no	203	E	no	205	E	203	E	no	yes	fully_conserved_A_C	
+114	206	L	204	L	no	206	H	204	H	no	204	H	no	206	R	204	H	yes	no	pigtail_specific_difference	pigtail_specific_interest
+115	207	N	205	N	no	207	N	205	N	no	205	N	no	207	N	205	N	no	yes	fully_conserved_A_C	
+116	208	C	206	C	no	208	C	206	C	no	206	C	no	208	C	206	C	no	yes	fully_conserved_A_C	
+117	209	A	207	A	no	209	A	207	A	no	207	A	no	209	A	207	A	no	yes	fully_conserved_A_C	
+118	210	V	208	V	no	210	M	208	M	no	208	M	no	210	M	208	M	no	yes	fully_conserved_A_C	
+119	211	L	209	L	no	211	L	209	L	no	209	L	no	211	L	209	L	no	yes	fully_conserved_A_C	
+120	212	Q	210	Q	no	212	H	210	H	no	210	H	no	212	H	210	H	no	yes	fully_conserved_A_C	
+121	213	V	211	V	no	213	V	211	V	no	211	V	no	213	V	211	A	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+122	214	N	212	N	no	214	R	212	R	no	212	R	no	214	R	212	H	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+123	215	R	213	R	no	215	G	213	G	no	213	G	no	215	G	213	G	no	yes	fully_conserved_A_C	
+124	216	L	214	L	no	216	L	214	L	no	214	L	no	216	L	214	L	no	yes	fully_conserved_A_C	
+125	217	K	215	K	no	217	F	215	F	no	215	F	no	217	F	215	K	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+126	218	S	216	S	no	218	S	216	S	no	216	S	no	218	S	216	S	no	yes	fully_conserved_A_C	
+127	219	A	217	A	no	219	D	217	D	no	217	D	no	219	D	217	N	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+128	220	Q	218	Q	no	220	E	218	E	no	218	E	no	220	E	218	Q	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+129	221	C	219	C	no	221	C	219	C	no	219	C	no	221	C	219	C	no	yes	fully_conserved_A_C	
+130	222	G	220	G	no	222	G	220	G	no	220	G	no	222	G	220	G	no	yes	fully_conserved_A_C	
+131	223	S	221	S	no	223	S	221	S	no	221	S	no	223	S	221	S	no	yes	fully_conserved_A_C	
+132	224	S	222	S	no	224	S	222	S	no	222	S	no	224	S	222	T	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+133	225	I	223	M	yes	225	K	223	K	no	223	K	no	225	K	223	V	yes	yes	human_pigtail_shared_difference	pigtail_specific_interest
+134	226	I	224	I	no	226	I	224	I	no	224	I	no	226	I	224	I	no	yes	fully_conserved_A_C	
+135	227	Y	225	Y	no	227	Y	225	Y	no	225	Y	no	227	Y	225	Y	no	yes	fully_conserved_A_C	
+136	228	H	226	H	no	228	H	226	H	no	226	H	no	228	H	226	H	no	yes	fully_conserved_A_C	
+137	229	C	227	C	no	229	C	227	C	no	227	C	no	229	C	227	C	no	yes	fully_conserved_A_C	
+138	230	K	228	K	no	230	K	228	K	no	228	K	no	230	K	228	K	no	yes	fully_conserved_A_C	
+139	231	H	229	H	no	231	H	229	H	no	229	H	no	231	H	229	H	no	yes	fully_conserved_A_C	
+140	232	K	230	K	no	232	K	230	K	no	230	K	no	232	K	230	K	no	yes	fully_conserved_A_C	
+141	233	L	231	L	no	233	L	231	L	no	231	L	no	233	L	231	L	no	yes	fully_conserved_A_C	

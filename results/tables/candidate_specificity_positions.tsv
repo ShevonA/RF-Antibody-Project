@@ -1,0 +1,26 @@
+alignment_column	human_NKG2A_residue	human_NKG2A_aa	human_NKG2C_residue	human_NKG2C_aa	human_A_vs_C_diff	rhesus_NKG2A_residue	rhesus_NKG2A_aa	rhesus_NKG2C1_residue	rhesus_NKG2C1_aa	rhesus_A_vs_C1_diff	rhesus_NKG2C2_residue	rhesus_NKG2C2_aa	rhesus_A_vs_C2_diff	pigtail_NKG2A_residue	pigtail_NKG2A_aa	pigtail_NKG2C_residue	pigtail_NKG2C_aa	pigtail_A_vs_C_diff	macaque_NKG2A_same	classification	sequence_priority
+1		-	94	I	yes		-	94	I	yes	94	I	yes		-	94	I	yes	no	pan_species_NKG2A_vs_NKG2C_difference	moderate_sequence_interest
+3	95	S		-	yes	95	S		-	yes		-	yes	95	S		-	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+4	96	T		-	yes	96	T		-	yes		-	yes	96	T		-	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+5	97	L		-	yes	97	L		-	yes		-	yes	97	L		-	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+6	98	I	96	F	yes	98	T	96	F	yes	96	F	yes	98	T	96	F	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+7	99	Q	97	L	yes	99	Q	97	L	yes	97	L	yes	99	Q	97	L	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+8	100	R	98	E	yes	100	K	98	E	yes	98	E	yes	100	K	98	E	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+9	101	H	99	Q	yes	101	H	99	Q	yes	99	Q	yes	101	H	99	Q	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+13	105	S	103	S	no	105	S	103	F	yes	103	S	no	105	S	103	F	yes	yes	rhesus_isoform_dependent_difference	caution_rhesus_isoform_variability
+14	106	L	104	P	yes	106	L	104	P	yes	104	P	yes	106	L	104	P	yes	yes	pan_species_NKG2A_vs_NKG2C_difference	high_sequence_interest
+18	110	T	108	T	no	110	T	108	T	no	108	T	no	110	S	108	T	yes	no	pigtail_specific_difference	pigtail_specific_interest
+21	113	A	111	A	no	113	A	111	V	yes	111	V	yes	113	A	111	V	yes	yes	macaque_shared_difference	high_macaque_interest
+29	121	E	119	E	no	121	E	119	E	no	119	E	no	121	K	119	E	yes	no	pigtail_specific_difference	pigtail_specific_interest
+56	148	T	146	T	no	148	A	146	T	yes	146	T	yes	148	T	146	A	yes	no	macaque_shared_difference	moderate_macaque_interest
+79	171	P	169	P	no	171	T	169	S	yes	169	S	yes	171	S	169	P	yes	no	macaque_shared_difference	moderate_macaque_interest
+84	176	G	174	G	no	176	D	174	D	no	174	D	no	176	D	174	G	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+110	202	D	200	D	no	202	D	200	D	no	200	D	no	202	G	200	D	yes	no	pigtail_specific_difference	pigtail_specific_interest
+114	206	L	204	L	no	206	H	204	H	no	204	H	no	206	R	204	H	yes	no	pigtail_specific_difference	pigtail_specific_interest
+121	213	V	211	V	no	213	V	211	V	no	211	V	no	213	V	211	A	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+122	214	N	212	N	no	214	R	212	R	no	212	R	no	214	R	212	H	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+125	217	K	215	K	no	217	F	215	F	no	215	F	no	217	F	215	K	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+127	219	A	217	A	no	219	D	217	D	no	217	D	no	219	D	217	N	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+128	220	Q	218	Q	no	220	E	218	E	no	218	E	no	220	E	218	Q	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+132	224	S	222	S	no	224	S	222	S	no	222	S	no	224	S	222	T	yes	yes	pigtail_specific_difference	pigtail_specific_interest
+133	225	I	223	M	yes	225	K	223	K	no	223	K	no	225	K	223	V	yes	yes	human_pigtail_shared_difference	pigtail_specific_interest
