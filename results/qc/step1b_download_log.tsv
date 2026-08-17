@@ -1,0 +1,9 @@
+record_id	accession	sequence_length	status	output_file
+rhesus_CD94_NP_001028000_1	NP_001028000.1	179	downloaded	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\rhesus_CD94_NP_001028000_1.fasta
+rhesus_NKG2C_isoform1_NP_001305287_3	NP_001305287.3	231	downloaded	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\rhesus_NKG2C_isoform1_NP_001305287_3.fasta
+rhesus_NKG2C_isoform2_NP_001098647_3	NP_001098647.3	231	downloaded	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\rhesus_NKG2C_isoform2_NP_001098647_3.fasta
+pigtail_NKG2A_X1_XP_070928357_1	XP_070928357.1	233	downloaded	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\pigtail_NKG2A_X1_XP_070928357_1.fasta
+pigtail_NKG2A_X1_XP_070928358_1	XP_070928358.1	233	downloaded	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\pigtail_NKG2A_X1_XP_070928358_1.fasta
+pigtail_NKG2C_XP_070928345_1	XP_070928345.1	231	downloaded	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\pigtail_NKG2C_XP_070928345_1.fasta
+pigtail_CD94_X1_XP_011771121_1	XP_011771121.1	180	downloaded	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\pigtail_CD94_X1_XP_011771121_1.fasta
+pigtail_CD94_X2_XP_011771122_1	XP_011771122.1	179	downloaded	C:\Users\salexander3\Box\SNA\RF Antibody Project\data\raw\pigtail_CD94_X2_XP_011771122_1.fasta

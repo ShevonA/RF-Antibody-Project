@@ -1,0 +1,12 @@
+record_id	species	receptor	accession	status	role	notes
+human_NKG2A	human	NKG2A	P26715	primary	positive_target	Canonical reviewed UniProt sequence; compare against RefSeq NP_002250.2
+human_NKG2C	human	NKG2C	NP_002251.2	primary	negative_target	Canonical human NKG2C comparison
+rhesus_NKG2A	rhesus_macaque	NKG2A	NP_001028001.3	primary	positive_target	Current RefSeq version; older .2 retained as JC provenance
+rhesus_NKG2C_isoform1	rhesus_macaque	NKG2C	NP_001305287.3	primary_candidate	negative_target	Current KLRC2 isoform 1
+rhesus_NKG2C_isoform2	rhesus_macaque	NKG2C	NP_001098647.3	primary_candidate	negative_target	Current KLRC2 isoform 2; differs by 6 aa from JC .2 version
+pigtail_NKG2A	pig_tailed_macaque	NKG2A	XP_070928357.1	primary	positive_target	Predicted KLRC1 X1 protein
+pigtail_NKG2A_alt	pig_tailed_macaque	NKG2A	XP_070928358.1	alternate_identical	provenance	100% identical to XP_070928357.1
+pigtail_NKG2C	pig_tailed_macaque	NKG2C	XP_070928345.1	primary_candidate	negative_target	Predicted KLRC2 protein
+rhesus_CD94	rhesus_macaque	CD94	NP_001028000.1	primary	heterodimer_partner	Validated RefSeq CD94
+pigtail_CD94_X2	pig_tailed_macaque	CD94	XP_011771122.1	primary_candidate	heterodimer_partner	179 aa predicted isoform
+pigtail_CD94_X1	pig_tailed_macaque	CD94	XP_011771121.1	alternate	heterodimer_partner	180 aa predicted isoform

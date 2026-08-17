@@ -1,0 +1,79 @@
+sequence_1	length_1	sequence_2	length_2	same_length	identical	identity_percent	n_differences
+human_NKG2A_UniProt_P26715	233	human_NKG2A_RefSeq_NP_002250_2	233	yes	yes	100.000	0
+human_NKG2A_UniProt_P26715	233	human_NKG2A_isoformC_JC	228	no			
+human_NKG2A_UniProt_P26715	233	human_NKG2C_NP_002251_2	231	no			
+human_NKG2A_UniProt_P26715	233	rhesus_NKG2A_old_NP_001028001_2	233	yes	no	85.408	34
+human_NKG2A_UniProt_P26715	233	rhesus_NKG2C_old_NP_001098647_2	231	no			
+human_NKG2A_UniProt_P26715	233	rhesus_NKG2C_current_iso1_NP_001305287_3	231	no			
+human_NKG2A_UniProt_P26715	233	rhesus_NKG2C_current_iso2_NP_001098647_3	231	no			
+human_NKG2A_UniProt_P26715	233	rhesus_NKG2E_legacy_NP_001038194_2	246	no			
+human_NKG2A_UniProt_P26715	233	pigtail_NKG2A_XP_070928357_1	233	yes	no	84.120	37
+human_NKG2A_UniProt_P26715	233	pigtail_NKG2A_XP_070928358_1	233	yes	no	84.120	37
+human_NKG2A_UniProt_P26715	233	pigtail_NKG2C_XP_070928345_1	231	no			
+human_NKG2A_UniProt_P26715	233	rhesus_NKG2A_current_NP_001028001_3	233	yes	no	85.837	33
+human_NKG2A_RefSeq_NP_002250_2	233	human_NKG2A_isoformC_JC	228	no			
+human_NKG2A_RefSeq_NP_002250_2	233	human_NKG2C_NP_002251_2	231	no			
+human_NKG2A_RefSeq_NP_002250_2	233	rhesus_NKG2A_old_NP_001028001_2	233	yes	no	85.408	34
+human_NKG2A_RefSeq_NP_002250_2	233	rhesus_NKG2C_old_NP_001098647_2	231	no			
+human_NKG2A_RefSeq_NP_002250_2	233	rhesus_NKG2C_current_iso1_NP_001305287_3	231	no			
+human_NKG2A_RefSeq_NP_002250_2	233	rhesus_NKG2C_current_iso2_NP_001098647_3	231	no			
+human_NKG2A_RefSeq_NP_002250_2	233	rhesus_NKG2E_legacy_NP_001038194_2	246	no			
+human_NKG2A_RefSeq_NP_002250_2	233	pigtail_NKG2A_XP_070928357_1	233	yes	no	84.120	37
+human_NKG2A_RefSeq_NP_002250_2	233	pigtail_NKG2A_XP_070928358_1	233	yes	no	84.120	37
+human_NKG2A_RefSeq_NP_002250_2	233	pigtail_NKG2C_XP_070928345_1	231	no			
+human_NKG2A_RefSeq_NP_002250_2	233	rhesus_NKG2A_current_NP_001028001_3	233	yes	no	85.837	33
+human_NKG2A_isoformC_JC	228	human_NKG2C_NP_002251_2	231	no			
+human_NKG2A_isoformC_JC	228	rhesus_NKG2A_old_NP_001028001_2	233	no			
+human_NKG2A_isoformC_JC	228	rhesus_NKG2C_old_NP_001098647_2	231	no			
+human_NKG2A_isoformC_JC	228	rhesus_NKG2C_current_iso1_NP_001305287_3	231	no			
+human_NKG2A_isoformC_JC	228	rhesus_NKG2C_current_iso2_NP_001098647_3	231	no			
+human_NKG2A_isoformC_JC	228	rhesus_NKG2E_legacy_NP_001038194_2	246	no			
+human_NKG2A_isoformC_JC	228	pigtail_NKG2A_XP_070928357_1	233	no			
+human_NKG2A_isoformC_JC	228	pigtail_NKG2A_XP_070928358_1	233	no			
+human_NKG2A_isoformC_JC	228	pigtail_NKG2C_XP_070928345_1	231	no			
+human_NKG2A_isoformC_JC	228	rhesus_NKG2A_current_NP_001028001_3	233	no			
+human_NKG2C_NP_002251_2	231	rhesus_NKG2A_old_NP_001028001_2	233	no			
+human_NKG2C_NP_002251_2	231	rhesus_NKG2C_old_NP_001098647_2	231	yes	no	89.610	24
+human_NKG2C_NP_002251_2	231	rhesus_NKG2C_current_iso1_NP_001305287_3	231	yes	no	89.610	24
+human_NKG2C_NP_002251_2	231	rhesus_NKG2C_current_iso2_NP_001098647_3	231	yes	no	90.043	23
+human_NKG2C_NP_002251_2	231	rhesus_NKG2E_legacy_NP_001038194_2	246	no			
+human_NKG2C_NP_002251_2	231	pigtail_NKG2A_XP_070928357_1	233	no			
+human_NKG2C_NP_002251_2	231	pigtail_NKG2A_XP_070928358_1	233	no			
+human_NKG2C_NP_002251_2	231	pigtail_NKG2C_XP_070928345_1	231	yes	no	89.177	25
+human_NKG2C_NP_002251_2	231	rhesus_NKG2A_current_NP_001028001_3	233	no			
+rhesus_NKG2A_old_NP_001028001_2	233	rhesus_NKG2C_old_NP_001098647_2	231	no			
+rhesus_NKG2A_old_NP_001028001_2	233	rhesus_NKG2C_current_iso1_NP_001305287_3	231	no			
+rhesus_NKG2A_old_NP_001028001_2	233	rhesus_NKG2C_current_iso2_NP_001098647_3	231	no			
+rhesus_NKG2A_old_NP_001028001_2	233	rhesus_NKG2E_legacy_NP_001038194_2	246	no			
+rhesus_NKG2A_old_NP_001028001_2	233	pigtail_NKG2A_XP_070928357_1	233	yes	no	91.416	20
+rhesus_NKG2A_old_NP_001028001_2	233	pigtail_NKG2A_XP_070928358_1	233	yes	no	91.416	20
+rhesus_NKG2A_old_NP_001028001_2	233	pigtail_NKG2C_XP_070928345_1	231	no			
+rhesus_NKG2A_old_NP_001028001_2	233	rhesus_NKG2A_current_NP_001028001_3	233	yes	no	94.850	12
+rhesus_NKG2C_old_NP_001098647_2	231	rhesus_NKG2C_current_iso1_NP_001305287_3	231	yes	no	96.970	7
+rhesus_NKG2C_old_NP_001098647_2	231	rhesus_NKG2C_current_iso2_NP_001098647_3	231	yes	no	97.403	6
+rhesus_NKG2C_old_NP_001098647_2	231	rhesus_NKG2E_legacy_NP_001038194_2	246	no			
+rhesus_NKG2C_old_NP_001098647_2	231	pigtail_NKG2A_XP_070928357_1	233	no			
+rhesus_NKG2C_old_NP_001098647_2	231	pigtail_NKG2A_XP_070928358_1	233	no			
+rhesus_NKG2C_old_NP_001098647_2	231	pigtail_NKG2C_XP_070928345_1	231	yes	no	93.074	16
+rhesus_NKG2C_old_NP_001098647_2	231	rhesus_NKG2A_current_NP_001028001_3	233	no			
+rhesus_NKG2C_current_iso1_NP_001305287_3	231	rhesus_NKG2C_current_iso2_NP_001098647_3	231	yes	no	99.567	1
+rhesus_NKG2C_current_iso1_NP_001305287_3	231	rhesus_NKG2E_legacy_NP_001038194_2	246	no			
+rhesus_NKG2C_current_iso1_NP_001305287_3	231	pigtail_NKG2A_XP_070928357_1	233	no			
+rhesus_NKG2C_current_iso1_NP_001305287_3	231	pigtail_NKG2A_XP_070928358_1	233	no			
+rhesus_NKG2C_current_iso1_NP_001305287_3	231	pigtail_NKG2C_XP_070928345_1	231	yes	no	92.641	17
+rhesus_NKG2C_current_iso1_NP_001305287_3	231	rhesus_NKG2A_current_NP_001028001_3	233	no			
+rhesus_NKG2C_current_iso2_NP_001098647_3	231	rhesus_NKG2E_legacy_NP_001038194_2	246	no			
+rhesus_NKG2C_current_iso2_NP_001098647_3	231	pigtail_NKG2A_XP_070928357_1	233	no			
+rhesus_NKG2C_current_iso2_NP_001098647_3	231	pigtail_NKG2A_XP_070928358_1	233	no			
+rhesus_NKG2C_current_iso2_NP_001098647_3	231	pigtail_NKG2C_XP_070928345_1	231	yes	no	92.208	18
+rhesus_NKG2C_current_iso2_NP_001098647_3	231	rhesus_NKG2A_current_NP_001028001_3	233	no			
+rhesus_NKG2E_legacy_NP_001038194_2	246	pigtail_NKG2A_XP_070928357_1	233	no			
+rhesus_NKG2E_legacy_NP_001038194_2	246	pigtail_NKG2A_XP_070928358_1	233	no			
+rhesus_NKG2E_legacy_NP_001038194_2	246	pigtail_NKG2C_XP_070928345_1	231	no			
+rhesus_NKG2E_legacy_NP_001038194_2	246	rhesus_NKG2A_current_NP_001028001_3	233	no			
+pigtail_NKG2A_XP_070928357_1	233	pigtail_NKG2A_XP_070928358_1	233	yes	yes	100.000	0
+pigtail_NKG2A_XP_070928357_1	233	pigtail_NKG2C_XP_070928345_1	231	no			
+pigtail_NKG2A_XP_070928357_1	233	rhesus_NKG2A_current_NP_001028001_3	233	yes	no	94.850	12
+pigtail_NKG2A_XP_070928358_1	233	pigtail_NKG2C_XP_070928345_1	231	no			
+pigtail_NKG2A_XP_070928358_1	233	rhesus_NKG2A_current_NP_001028001_3	233	yes	no	94.850	12
+pigtail_NKG2C_XP_070928345_1	231	rhesus_NKG2A_current_NP_001028001_3	233	no			
