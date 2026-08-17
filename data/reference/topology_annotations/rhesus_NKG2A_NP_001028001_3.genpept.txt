@@ -1,0 +1,125 @@
+LOCUS       NP_001028001             233 aa            linear   PRI 16-APR-2026
+DEFINITION  NKG2-A/NKG2-B type II integral membrane protein [Macaca mulatta].
+ACCESSION   NP_001028001 XP_077809680
+VERSION     NP_001028001.3
+DBSOURCE    REFSEQ: accession NM_001032829.3
+KEYWORDS    RefSeq.
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (residues 1 to 233)
+  AUTHORS   Biassoni,R., Fogli,M., Cantoni,C., Costa,P., Conte,R., Koopman,G.,
+            Cafaro,A., Ensoli,B., Moretta,A., Moretta,L. and De Maria,A.
+  TITLE     Molecular and functional characterization of NKG2D, NKp80, and
+            NKG2C triggering NK cell receptors in rhesus and cynomolgus
+            macaques: monitoring of NK cell function during simian HIV
+            infection
+  JOURNAL   J Immunol 174 (9), 5695-5705 (2005)
+   PUBMED   15843571
+REFERENCE   2  (residues 1 to 233)
+  AUTHORS   LaBonte,M.L., Hershberger,K.L., Korber,B. and Letvin,N.L.
+  TITLE     The KIR and CD94/NKG2 families of molecules in the rhesus monkey
+  JOURNAL   Immunol Rev 183, 25-40 (2001)
+   PUBMED   11782245
+  REMARK    Review article
+REFERENCE   3  (residues 1 to 233)
+  AUTHORS   Kravitz,R.H., Grendell,R.L., Slukvin,I.I. and Golos,T.G.
+  TITLE     Selective expression of NKG2-A and NKG2-C mRNAs and novel
+            alternative splicing of 5' exons in rhesus monkey decidua
+  JOURNAL   Immunogenetics 53 (1), 69-73 (2001)
+   PUBMED   11261935
+REFERENCE   4  (residues 1 to 233)
+  AUTHORS   LaBonte,M.L., Levy,D.B. and Letvin,N.L.
+  TITLE     Characterization of rhesus monkey CD94/NKG2 family members and
+            identification of novel transmembrane-deleted forms of NKG2-A, B,
+            C, and D
+  JOURNAL   Immunogenetics 51 (6), 496-499 (2000)
+   PUBMED   10866118
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            JBMGST020000011.1.
+            
+            On or before Apr 16, 2026 this sequence version replaced
+            XP_077809680.1, NP_001028001.2.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR27294304.19108710.1,
+                                           SRR27294304.19108693.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN31648560, SAMN31648562
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..233
+                     /organism="Macaca mulatta"
+                     /db_xref="taxon:9544"
+                     /chromosome="11"
+                     /map="11"
+     Protein         1..233
+                     /product="NKG2-A/NKG2-B type II integral membrane protein"
+                     /note="CD159 antigen-like family member A; NK cell
+                     receptor A; NKG2-A/B-activating NK receptor"
+                     /calculated_mol_wt=26125
+     Region          1..28
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Region          6..11
+                     /region_name="Immunoreceptor tyrosine-based inhibition
+                     motif (ITIM). /evidence=ECO:0000250|UniProtKB:P26715"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Site            8
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000250|UniProtKB:P26715; propagated from
+                     UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Region          38..43
+                     /region_name="Immunoreceptor tyrosine-based inhibition
+                     motif (ITIM). /evidence=ECO:0000250|UniProtKB:P26715"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Site            40
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000250|UniProtKB:P26715; propagated from
+                     UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Site            71..93
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Site            102
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Site            103
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Region          119..231
+                     /region_name="CLECT_NK_receptors_like"
+                     /note="C-type lectin-like domain (CTLD) of the type found
+                     in natural killer cell receptors (NKRs); cd03593"
+                     /db_xref="CDD:153063"
+     Site            151
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q9MZJ3.1)"
+     Site            order(199,215,217..218)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153063"
+     CDS             1..233
+                     /gene="KLRC1"
+                     /gene_synonym="CD159a; NKG2-A; NKG2A"
+                     /coded_by="NM_001032829.3:396..1097"
+                     /db_xref="GeneID:574146"
+ORIGIN      
+        1 mdnqgviysd lnlppnpkrq qqkpkgntss ilvteqeity aelnlqktsq dfqgndktnh
+       61 ckdllsapek liagilgiic lvlmasvvti vvipstltqk hnnsslntrt qkarhcghcp
+      121 eewitysnsc yyigkekrtw aesllacask nssllsidne eemkfltail tsswidvfrd
+      181 sshhpwvtin gltfkheike sdhaehncam lhvrglfsde cgsskiyhck hkl
+//
+

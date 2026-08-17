@@ -1,0 +1,73 @@
+comparison	alignment_column	NKG2A_ecto_residue	NKG2A_full_residue	NKG2A_aa	NKG2C_ecto_residue	NKG2C_full_residue	NKG2C_aa	difference_type
+human	1			-	1	94	I	gap
+human	3	2	95	S			-	gap
+human	4	3	96	T			-	gap
+human	5	4	97	L			-	gap
+human	6	5	98	I	3	96	F	substitution
+human	7	6	99	Q	4	97	L	substitution
+human	8	7	100	R	5	98	E	substitution
+human	9	8	101	H	6	99	Q	substitution
+human	12	11	104	S	9	102	F	substitution
+human	14	13	106	L	11	104	P	substitution
+human	75	74	167	S	72	165	A	substitution
+human	76	75	168	I	73	166	S	substitution
+human	78	77	170	S	75	168	L	substitution
+human	97	96	189	M	94	187	I	substitution
+human	105	104	197	E	102	195	K	substitution
+human	133	132	225	I	130	223	M	substitution
+rhesus_iso1	1			-	1	94	I	gap
+rhesus_iso1	3	2	95	S			-	gap
+rhesus_iso1	4	3	96	T			-	gap
+rhesus_iso1	5	4	97	L			-	gap
+rhesus_iso1	6	5	98	T	3	96	F	substitution
+rhesus_iso1	7	6	99	Q	4	97	L	substitution
+rhesus_iso1	8	7	100	K	5	98	E	substitution
+rhesus_iso1	9	8	101	H	6	99	Q	substitution
+rhesus_iso1	13	12	105	S	10	103	F	substitution
+rhesus_iso1	14	13	106	L	11	104	P	substitution
+rhesus_iso1	21	20	113	A	18	111	V	substitution
+rhesus_iso1	36	35	128	N	33	126	K	substitution
+rhesus_iso1	56	55	148	A	53	146	T	substitution
+rhesus_iso1	76	75	168	A	73	166	S	substitution
+rhesus_iso1	79	78	171	T	76	169	S	substitution
+rhesus_iso1	111	110	203	H	108	201	N	substitution
+rhesus_iso2	1			-	1	94	I	gap
+rhesus_iso2	3	2	95	S			-	gap
+rhesus_iso2	4	3	96	T			-	gap
+rhesus_iso2	5	4	97	L			-	gap
+rhesus_iso2	6	5	98	T	3	96	F	substitution
+rhesus_iso2	7	6	99	Q	4	97	L	substitution
+rhesus_iso2	8	7	100	K	5	98	E	substitution
+rhesus_iso2	9	8	101	H	6	99	Q	substitution
+rhesus_iso2	14	13	106	L	11	104	P	substitution
+rhesus_iso2	21	20	113	A	18	111	V	substitution
+rhesus_iso2	36	35	128	N	33	126	K	substitution
+rhesus_iso2	56	55	148	A	53	146	T	substitution
+rhesus_iso2	76	75	168	A	73	166	S	substitution
+rhesus_iso2	79	78	171	T	76	169	S	substitution
+rhesus_iso2	111	110	203	H	108	201	N	substitution
+pigtail	1			-	1	94	I	gap
+pigtail	3	2	95	S			-	gap
+pigtail	4	3	96	T			-	gap
+pigtail	5	4	97	L			-	gap
+pigtail	6	5	98	T	3	96	F	substitution
+pigtail	7	6	99	Q	4	97	L	substitution
+pigtail	8	7	100	K	5	98	E	substitution
+pigtail	9	8	101	H	6	99	Q	substitution
+pigtail	13	12	105	S	10	103	F	substitution
+pigtail	14	13	106	L	11	104	P	substitution
+pigtail	18	17	110	S	15	108	T	substitution
+pigtail	21	20	113	A	18	111	V	substitution
+pigtail	29	28	121	K	26	119	E	substitution
+pigtail	56	55	148	T	53	146	A	substitution
+pigtail	79	78	171	S	76	169	P	substitution
+pigtail	84	83	176	D	81	174	G	substitution
+pigtail	110	109	202	G	107	200	D	substitution
+pigtail	114	113	206	R	111	204	H	substitution
+pigtail	121	120	213	V	118	211	A	substitution
+pigtail	122	121	214	R	119	212	H	substitution
+pigtail	125	124	217	F	122	215	K	substitution
+pigtail	127	126	219	D	124	217	N	substitution
+pigtail	128	127	220	E	125	218	Q	substitution
+pigtail	132	131	224	S	129	222	T	substitution
+pigtail	133	132	225	K	130	223	V	substitution

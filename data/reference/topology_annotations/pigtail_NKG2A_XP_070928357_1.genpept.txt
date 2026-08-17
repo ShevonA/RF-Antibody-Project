@@ -1,0 +1,71 @@
+LOCUS       XP_070928357             233 aa            linear   PRI 20-JUL-2026
+DEFINITION  NKG2-A/NKG2-B type II integral membrane protein isoform X1 [Macaca
+            nemestrina].
+ACCESSION   XP_070928357
+VERSION     XP_070928357.1
+DBLINK      BioProject: PRJNA1213823
+DBSOURCE    REFSEQ: accession XM_071072256.1
+KEYWORDS    RefSeq.
+SOURCE      Macaca nemestrina (pig-tailed macaque)
+  ORGANISM  Macaca nemestrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_092134) annotated using gene prediction method: Gnomon,
+            supported by mRNA evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_043159975.1-RS_2026_07
+            Annotation Pipeline         :: NCBI Eukaryotic Genome Annotation
+                                           Pipeline (EGAP)
+            Annotation Software Version :: 10.6
+            Annotation Method           :: Best-placed RefSeq; Gnomon;
+                                           cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 07/16/2026
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..233
+                     /organism="Macaca nemestrina"
+                     /isolate="mMacNem1"
+                     /db_xref="taxon:9545"
+                     /chromosome="10"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /dev_stage="adult"
+                     /geo_loc_name="USA: Seattle, Washington"
+                     /lat_lon="47.655548 N 122.303200 W"
+                     /collection_date="2021-05-12"
+                     /collected_by="Washington National Primate Research Center
+                     (WaNPRC) at the University of Washington"
+     Protein         1..233
+                     /product="NKG2-A/NKG2-B type II integral membrane protein
+                     isoform X1"
+                     /calculated_mol_wt=26189
+     Region          119..231
+                     /region_name="CLECT_NK_receptors_like"
+                     /note="C-type lectin-like domain (CTLD) of the type found
+                     in natural killer cell receptors (NKRs); cd03593"
+                     /db_xref="CDD:153063"
+     Site            order(172,199,215,217..218)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153063"
+     CDS             1..233
+                     /gene="LOC105499932"
+                     /coded_by="XM_071072256.1:2583..3284"
+                     /db_xref="GeneID:105499932"
+ORIGIN      
+        1 mdnqgviysd lnlppnqkrq qqkpkgnsrs tlvteqeity aelnlqktsq dfqgndktnh
+       61 ckdlpsapek liagilgiif lvlmasvvti vvipstltqk hnnsslntrs qkarhcghcp
+      121 kewitysnsc yyigkekrtw aesllactsk nssllsidne eemkfltail ssswidvfrd
+      181 sshhpwvtin gltfkheike sghaerncam lhvrglfsde cgsskiyhck hkl
+//
+

@@ -1,0 +1,79 @@
+LOCUS       NP_001098647             231 aa            linear   PRI 25-MAY-2026
+DEFINITION  NKG2-C type II integral membrane protein isoform 2 [Macaca
+            mulatta].
+ACCESSION   NP_001098647 XP_028685073
+VERSION     NP_001098647.3
+DBSOURCE    REFSEQ: accession NM_001105177.3
+KEYWORDS    RefSeq.
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (residues 1 to 231)
+  AUTHORS   Biassoni,R., Fogli,M., Cantoni,C., Costa,P., Conte,R., Koopman,G.,
+            Cafaro,A., Ensoli,B., Moretta,A., Moretta,L. and De Maria,A.
+  TITLE     Molecular and functional characterization of NKG2D, NKp80, and
+            NKG2C triggering NK cell receptors in rhesus and cynomolgus
+            macaques: monitoring of NK cell function during simian HIV
+            infection
+  JOURNAL   J Immunol 174 (9), 5695-5705 (2005)
+   PUBMED   15843571
+REFERENCE   2  (residues 1 to 231)
+  AUTHORS   Kravitz,R.H., Grendell,R.L., Slukvin,I.I. and Golos,T.G.
+  TITLE     Selective expression of NKG2-A and NKG2-C mRNAs and novel
+            alternative splicing of 5' exons in rhesus monkey decidua
+  JOURNAL   Immunogenetics 53 (1), 69-73 (2001)
+   PUBMED   11261935
+REFERENCE   3  (residues 1 to 231)
+  AUTHORS   LaBonte,M.L., Levy,D.B. and Letvin,N.L.
+  TITLE     Characterization of rhesus monkey CD94/NKG2 family members and
+            identification of novel transmembrane-deleted forms of NKG2-A, B,
+            C, and D
+  JOURNAL   Immunogenetics 51 (6), 496-499 (2000)
+   PUBMED   10866118
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            JBMGST020000011.1.
+            
+            On Apr 16, 2026 this sequence version replaced NP_001098647.2.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR27294313.58970324.1 [ECO:0000332]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..231
+                     /organism="Macaca mulatta"
+                     /db_xref="taxon:9544"
+                     /chromosome="11"
+                     /map="11"
+     Protein         1..231
+                     /product="NKG2-C type II integral membrane protein isoform
+                     2"
+                     /note="killer cell lectin-like receptor subfamily C,
+                     member 2; NK cell receptor C; NKG2-C-activating NK
+                     receptor; CD159 antigen-like family member C; NKG2-C type
+                     II integral membrane protein"
+                     /calculated_mol_wt=26132
+     Region          117..229
+                     /region_name="CLECT_NK_receptors_like"
+                     /note="C-type lectin-like domain (CTLD) of the type found
+                     in natural killer cell receptors (NKRs); cd03593"
+                     /db_xref="CDD:153063"
+     Site            order(170,197,213,215..216)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153063"
+     CDS             1..231
+                     /gene="KLRC2"
+                     /gene_synonym="CD159c; NKG2-C; nkg2C"
+                     /coded_by="NM_001105177.3:35..730"
+                     /note="isoform 2 is encoded by transcript variant 2"
+                     /db_xref="GeneID:114670780"
+ORIGIN      
+        1 mnkqrgtfse vslaqdpkrq qrkpkgnkss isgteqeifq velnlqnpsl nhqgideiyd
+       61 cqgllpppek ltaevlgiic ivlmatllkt ivlipfleqn nsspntrtqk vrhcghcpee
+      121 wityskscyy igkekrtwae sllactskns sllsidneee mkfltsilss swidvfrdss
+      181 hhpwvtingl tfkheikesd naehncamlh vrglfsdecg sskiyhckhk l
+//
+

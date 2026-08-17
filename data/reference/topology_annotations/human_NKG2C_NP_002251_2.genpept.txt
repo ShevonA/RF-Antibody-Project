@@ -1,0 +1,192 @@
+LOCUS       NP_002251                231 aa            linear   PRI 30-APR-2025
+DEFINITION  NKG2-C type II integral membrane protein [Homo sapiens].
+ACCESSION   NP_002251 XP_001713737 XP_001713753
+VERSION     NP_002251.2
+DBSOURCE    REFSEQ: accession NM_002260.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 231)
+  AUTHORS   Sanchez-Gaona,N., Gallego-Cortes,A., Astorga-Gamaza,A., Rallon,N.,
+            Benito,J.M., Ruiz-Mateos,E., Curran,A., Burgos,J., Navarro,J.,
+            Suanzes,P., Falco,V., Genesca,M. and Buzon,M.J.
+  TITLE     NKG2C and NKG2A coexpression defines a highly functional antiviral
+            NK population in spontaneous HIV control
+  JOURNAL   JCI Insight 9 (20), e182660 (2024)
+   PUBMED   39288262
+  REMARK    GeneRIF: NKG2C and NKG2A coexpression defines a highly functional
+            antiviral NK population in spontaneous HIV control.
+REFERENCE   2  (residues 1 to 231)
+  AUTHORS   Siemaszko,J., Lacina,P., Szymczak,D., Szeremet,A., Majcherek,M.,
+            Czyz,A., Sobczyk-Kruszelnicka,M., Fidyk,W., Solarska,I.,
+            Nasilowska-Adamska,B., Skowronska,P., Bieniaszewska,M.,
+            Tomaszewska,A., Basak,G.W., Giebel,S., Wrobel,T. and
+            Bogunia-Kubik,K.
+  TITLE     Significance of HLA-E and its two NKG2 receptors in development of
+            complications after allogeneic transplantation of hematopoietic
+            stem cells
+  JOURNAL   Front Immunol 14, 1227897 (2023)
+   PUBMED   37901227
+  REMARK    GeneRIF: Significance of HLA-E and its two NKG2 receptors in
+            development of complications after allogeneic transplantation of
+            hematopoietic stem cells.
+REFERENCE   3  (residues 1 to 231)
+  AUTHORS   Yang,X., Wang,X., Zou,Y., Zhang,S., Xia,M., Fu,L., Vollger,M.R.,
+            Chen,N.C., Taylor,D.J., Harvey,W.T., Logsdon,G.A., Meng,D., Shi,J.,
+            McCoy,R.C., Schatz,M.C., Li,W., Eichler,E.E., Lu,Q. and Mao,Y.
+  TITLE     Characterization of large-scale genomic differences in the first
+            complete human genome
+  JOURNAL   Genome Biol 24 (1), 157 (2023)
+   PUBMED   37403156
+REFERENCE   4  (residues 1 to 231)
+  AUTHORS   Lin,Z., Bashirova,A.A., Viard,M., Garner,L., Quastel,M.,
+            Beiersdorfer,M., Kasprzak,W.K., Akdag,M., Yuki,Y., Ojeda,P.,
+            Das,S., Andresson,T., Naranbhai,V., Horowitz,A., McMichael,A.J.,
+            Hoelzemer,A., Gillespie,G.M., Garcia-Beltran,W.F. and Carrington,M.
+  TITLE     HLA class I signal peptide polymorphism determines the level of
+            CD94/NKG2-HLA-E-mediated regulation of effector cell responses
+  JOURNAL   Nat Immunol 24 (7), 1087-1097 (2023)
+   PUBMED   37264229
+REFERENCE   5  (residues 1 to 231)
+  AUTHORS   Asenjo,J., Moraru,M., Al-Akioui-Sanz,K., Altadill,M., Muntasell,A.,
+            Lopez-Botet,M. and Vilches,C.
+  TITLE     Diversity of NKG2C genotypes in a European population: Conserved
+            and recombinant haplotypes in the coding, promoter, and
+            3'-untranslated regions
+  JOURNAL   HLA 100 (5), 469-478 (2022)
+   PUBMED   35802353
+  REMARK    GeneRIF: Diversity of NKG2C genotypes in a European population:
+            Conserved and recombinant haplotypes in the coding, promoter, and
+            3'-untranslated regions.
+REFERENCE   6  (residues 1 to 231)
+  AUTHORS   Plougastel,B. and Trowsdale,J.
+  TITLE     Sequence analysis of a 62-kb region overlapping the human KLRC
+            cluster of genes
+  JOURNAL   Genomics 49 (2), 193-199 (1998)
+   PUBMED   9598306
+REFERENCE   7  (residues 1 to 231)
+  AUTHORS   Braud,V.M., Allan,D.S., O'Callaghan,C.A., Soderstrom,K.,
+            D'Andrea,A., Ogg,G.S., Lazetic,S., Young,N.T., Bell,J.I.,
+            Phillips,J.H., Lanier,L.L. and McMichael,A.J.
+  TITLE     HLA-E binds to natural killer cell receptors CD94/NKG2A, B and C
+  JOURNAL   Nature 391 (6669), 795-799 (1998)
+   PUBMED   9486650
+REFERENCE   8  (residues 1 to 231)
+  AUTHORS   Houchins,J.P., Lanier,L.L., Niemi,E.C., Phillips,J.H. and Ryan,J.C.
+  TITLE     Natural killer cell cytolytic activity is inhibited by NKG2-A and
+            activated by NKG2-C
+  JOURNAL   J Immunol 158 (8), 3603-3609 (1997)
+   PUBMED   9103421
+REFERENCE   9  (residues 1 to 231)
+  AUTHORS   Yabe,T., McSherry,C., Bach,F.H., Fisch,P., Schall,R.P., Sondel,P.M.
+            and Houchins,J.P.
+  TITLE     A multigene family on human chromosome 12 encodes natural
+            killer-cell lectins
+  JOURNAL   Immunogenetics 37 (6), 455-460 (1993)
+   PUBMED   8436421
+REFERENCE   10 (residues 1 to 231)
+  AUTHORS   Houchins,J.P., Yabe,T., McSherry,C. and Bach,F.H.
+  TITLE     DNA sequence analysis of NKG2, a family of related cDNA clones
+            encoding type II integral membrane proteins on human natural killer
+            cells
+  JOURNAL   J Exp Med 173 (4), 1017-1020 (1991)
+   PUBMED   2007850
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC093644.1, X54869.1,
+            AF260134.1 and AC068775.52.
+            
+            On or before Mar 29, 2008 this sequence version replaced
+            XP_001713737.1, XP_001713753.1, NP_002251.1.
+            
+            Summary: Natural killer (NK) cells are lymphocytes that can mediate
+            lysis of certain tumor cells and virus-infected cells without
+            previous activation. They can also regulate specific humoral and
+            cell-mediated immunity. NK cells preferentially express several
+            calcium-dependent (C-type) lectins, which have been implicated in
+            the regulation of NK cell function. The group, designated KLRC
+            (NKG2) are expressed primarily in natural killer (NK) cells and
+            encodes a family of transmembrane proteins characterized by a type
+            II membrane orientation (extracellular C terminus) and the presence
+            of a C-type lectin domain. The KLRC (NKG2) gene family is located
+            within the NK complex, a region that contains several C-type lectin
+            genes preferentially expressed on NK cells. KLRC2 alternative
+            splice variants have been described but their full-length nature
+            has not been determined. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X54869.1, BC106069.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA1968968
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000381902.7/ ENSP00000371327.2
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..231
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12p13.2"
+     Protein         1..231
+                     /product="NKG2-C type II integral membrane protein"
+                     /note="NK cell receptor C; NKG2-C-activating NK receptor;
+                     CD159 antigen-like family member C; killer cell
+                     lectin-like receptor subfamily C, member 2; natural killer
+                     cell receptor G2-C"
+                     /calculated_mol_wt=26028
+     Region          1..32
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26717.3)"
+     Site            71..93
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26717.3)"
+     Site            100
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P26717.3)"
+     Region          117..229
+                     /region_name="CLECT_NK_receptors_like"
+                     /note="C-type lectin-like domain (CTLD) of the type found
+                     in natural killer cell receptors (NKRs); cd03593"
+                     /db_xref="CDD:153063"
+     Site            149
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P26717.3)"
+     Site            178
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P26717.3)"
+     Site            order(197,213,215..216)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153063"
+     CDS             1..231
+                     /gene="KLRC2"
+                     /gene_synonym="CD159c; NKG2-C; NKG2C"
+                     /coded_by="NM_002260.4:25..720"
+                     /db_xref="CCDS:CCDS31745.1"
+                     /db_xref="GeneID:3822"
+                     /db_xref="HGNC:HGNC:6375"
+                     /db_xref="MIM:602891"
+ORIGIN      
+        1 mnkqrgtfse vslaqdpkrq qrkpkgnkss isgteqeifq velnlqnpsl nhqgidkiyd
+       61 cqgllpppek ltaevlgiic ivlmatvlkt ivlipfleqn nfspntrtqk arhcghcpee
+      121 witysnscyy igkerrtwee sllactskns sllsidneee mkflasilps swigvfrnss
+      181 hhpwvtingl afkhkikdsd naelncavlq vnrlksaqcg ssmiyhckhk l
+//
+

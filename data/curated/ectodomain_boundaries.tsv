@@ -1,0 +1,8 @@
+record_id	accession	full_length	ectodomain_start	ectodomain_end	boundary_status	evidence
+human_NKG2A	P26715	233	94	233	direct	UniProt TOPO_DOM 94..233; TRANSMEM 71..93
+human_NKG2C	NP_002251.2	231	94	231	direct	NCBI/UniProt propagated transmembrane region 71..93
+rhesus_NKG2A	NP_001028001.3	233	94	233	direct	NCBI transmembrane region 71..93 propagated from UniProt Q9MZJ3.1
+rhesus_NKG2C_isoform1	NP_001305287.3	231	94	231	inferred	Projected from aligned human/rhesus NKG2 topology and conserved transmembrane segment
+rhesus_NKG2C_isoform2	NP_001098647.3	231	94	231	inferred	Projected from aligned human/rhesus NKG2 topology and conserved transmembrane segment
+pigtail_NKG2A	XP_070928357.1	233	94	233	inferred	Projected through MAFFT alignment from annotated orthologs
+pigtail_NKG2C	XP_070928345.1	231	94	231	inferred	Projected through MAFFT alignment from annotated orthologs
