@@ -1,0 +1,13 @@
+footprint_id	center_residues	residue_count	residue_labels	human_discriminatory_residues	rhesus_both_isoforms_discriminatory_residues	pigtail_discriminatory_residues	single_residue_pan_species_discriminators	footprint_has_human_discrimination	footprint_has_rhesus_discrimination	footprint_has_pigtail_discrimination	footprint_cross_species_discrimination	cross_species_conserved_NKG2A_residues	macaque_conserved_NKG2A_residues	exposed_non_interface_residues	interface_residues	mean_complex_rsa	footprint_priority
+footprint_1	217	7	206L,213V,214N,217K,219A,220Q,225I	1	0	7	0	yes	no	yes	no	1	6	3	1	0.2309	interface_containing
+footprint_2	225	6	171P,217K,219A,220Q,224S,225I	1	1	6	0	yes	yes	yes	yes	1	5	1	3	0.1803	cross_species_NKG2A_discriminatory_mixed_interface
+footprint_3	219	6	202D,206L,217K,219A,220Q,225I	1	0	6	0	yes	no	yes	no	0	4	1	1	0.1811	interface_containing
+footprint_4	220	6	206L,217K,219A,220Q,224S,225I	1	0	6	0	yes	no	yes	no	1	5	1	2	0.1865	interface_containing
+footprint_5	206	5	202D,206L,217K,219A,220Q	0	0	5	0	no	no	yes	no	0	3	1	1	0.1977	interface_containing
+footprint_6	213,214	4	171P,213V,214N,217K	0	1	4	0	no	yes	yes	no	1	3	2	2	0.2668	interface_containing
+footprint_7	171	4	171P,213V,214N,225I	1	1	4	0	yes	yes	yes	yes	1	3	2	1	0.2548	cross_species_NKG2A_discriminatory_mixed_interface
+footprint_8	202	3	202D,206L,219A	0	0	3	0	no	no	yes	no	0	1	0	0	0.1804	low_structural_priority
+footprint_9	224	3	220Q,224S,225I	1	0	3	0	yes	no	yes	no	1	3	1	1	0.2268	interface_containing
+footprint_10	113,121	2	113A,121E	0	1	2	0	no	yes	yes	no	1	1	2	0	0.7706	macaque_NKG2A_discriminatory_noninterface
+footprint_11	148	1	148T	0	1	1	0	no	yes	yes	no	0	0	1	0	0.4741	macaque_NKG2A_discriminatory_noninterface
+footprint_12	176	1	176G	0	0	1	0	no	no	yes	no	0	1	0	0	0.0850	low_structural_priority

@@ -1,0 +1,2 @@
+uniprot_id	alphafold_entry_id	model_coordinate_residues	mapped_reference_start	mapped_reference_end	sequence_alignment_score	target_start	target_end	target_residues_mapped	target_mean_plddt	target_median_plddt	target_min_plddt	target_max_plddt	shared_3CDG_CA_positions	alphafold_vs_3CDG_CA_rmsd_A	mean_target_94_112_vs_domain_113_232_PAE_A	model_use_decision
+P26715	AF-P26715-F1	233	94	233	280.000	94	112	19	56.402	56.410	41.530	72.690	120	1.318	28.645	target_region_low_confidence_geometry_should_not_be_overinterpreted

@@ -1,0 +1,7 @@
+pdb_id	entity_id	description	author_chain_id	entity_sequence_length	entity_reference_start	entity_reference_end	coordinate_residue_count	coordinate_reference_start	coordinate_reference_end	target_region_start	target_region_end	target_positions_resolved_count	target_positions_total	target_fraction_resolved	target_positions_resolved	target_positions_missing	entity_alignment_score	coordinate_alignment_score
+3BDW	2	NKG2-A/NKG2-B type II integral membrane protein	B	120	113	232	116	113	232	94	112	0	19	0.000		94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112	240.000	225.500
+3BDW	2	NKG2-A/NKG2-B type II integral membrane protein	D	120	113	232	116	113	232	94	112	0	19	0.000		94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112	240.000	225.500
+3CDG	4	NKG2-A/NKG2-B type II integral membrane protein	F	120	113	232	120	113	232	94	112	0	19	0.000		94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112	240.000	240.000
+3CDG	4	NKG2-A/NKG2-B type II integral membrane protein	K	120	113	232	116	113	232	94	112	0	19	0.000		94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112	240.000	225.500
+3CII	5	NKG2-A/NKG2-B type II integral membrane protein	H	120	113	232	116	113	232	94	112	0	19	0.000		94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112	240.000	225.500
+3CII	5	NKG2-A/NKG2-B type II integral membrane protein	J	120	113	232	116	113	232	94	112	0	19	0.000		94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112	240.000	225.500

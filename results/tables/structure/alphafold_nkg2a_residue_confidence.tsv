@@ -1,0 +1,234 @@
+model_residue_number	full_length_residue	aa	plddt	confidence_class	in_target_94_112
+1		M	46.440	very_low	no
+2		D	49.970	very_low	no
+3		N	50.000	low	no
+4		Q	55.090	low	no
+5		G	44.560	very_low	no
+6		V	60.720	low	no
+7		I	63.060	low	no
+8		Y	50.440	low	no
+9		S	59.380	low	no
+10		D	51.190	low	no
+11		L	51.090	low	no
+12		N	52.160	low	no
+13		L	52.120	low	no
+14		P	56.440	low	no
+15		P	56.840	low	no
+16		N	48.590	very_low	no
+17		P	54.120	low	no
+18		K	43.030	very_low	no
+19		R	43.530	very_low	no
+20		Q	42.090	very_low	no
+21		Q	42.780	very_low	no
+22		R	40.940	very_low	no
+23		K	43.440	very_low	no
+24		P	41.840	very_low	no
+25		K	41.440	very_low	no
+26		G	38.190	very_low	no
+27		N	37.780	very_low	no
+28		K	41.660	very_low	no
+29		N	35.120	very_low	no
+30		S	35.780	very_low	no
+31		I	38.910	very_low	no
+32		L	37.340	very_low	no
+33		A	36.660	very_low	no
+34		T	40.780	very_low	no
+35		E	39.530	very_low	no
+36		Q	43.120	very_low	no
+37		E	41.530	very_low	no
+38		I	50.220	low	no
+39		T	51.780	low	no
+40		Y	49.160	very_low	no
+41		A	50.780	low	no
+42		E	54.690	low	no
+43		L	48.030	very_low	no
+44		N	44.810	very_low	no
+45		L	47.440	very_low	no
+46		Q	53.440	low	no
+47		K	50.940	low	no
+48		A	44.750	very_low	no
+49		S	45.090	very_low	no
+50		Q	46.470	very_low	no
+51		D	41.940	very_low	no
+52		F	39.160	very_low	no
+53		Q	41.030	very_low	no
+54		G	39.030	very_low	no
+55		N	38.190	very_low	no
+56		D	42.060	very_low	no
+57		K	42.750	very_low	no
+58		T	38.810	very_low	no
+59		Y	42.000	very_low	no
+60		H	39.280	very_low	no
+61		C	40.120	very_low	no
+62		K	39.560	very_low	no
+63		D	45.940	very_low	no
+64		L	47.340	very_low	no
+65		P	46.720	very_low	no
+66		S	50.590	low	no
+67		A	63.250	low	no
+68		P	62.120	low	no
+69		E	60.620	low	no
+70		K	68.000	low	no
+71		L	75.250	confident	no
+72		I	79.250	confident	no
+73		V	80.440	confident	no
+74		G	84.310	confident	no
+75		I	89.880	confident	no
+76		L	91.690	very_high	no
+77		G	91.880	very_high	no
+78		I	93.500	very_high	no
+79		I	93.750	very_high	no
+80		C	94.750	very_high	no
+81		L	94.940	very_high	no
+82		I	93.940	very_high	no
+83		L	93.810	very_high	no
+84		M	92.940	very_high	no
+85		A	92.000	very_high	no
+86		S	89.690	confident	no
+87		V	89.380	confident	no
+88		V	88.380	confident	no
+89		T	85.060	confident	no
+90		I	84.250	confident	no
+91		V	83.310	confident	no
+92		V	81.810	confident	no
+93		I	75.310	confident	no
+94	94	P	72.690	confident	yes
+95	95	S	72.500	confident	yes
+96	96	T	69.750	low	yes
+97	97	L	64.310	low	yes
+98	98	I	63.220	low	yes
+99	99	Q	56.910	low	yes
+100	100	R	59.620	low	yes
+101	101	H	56.560	low	yes
+102	102	N	54.440	low	yes
+103	103	N	59.880	low	yes
+104	104	S	56.410	low	yes
+105	105	S	51.750	low	yes
+106	106	L	52.940	low	yes
+107	107	N	50.410	low	yes
+108	108	T	48.310	very_low	yes
+109	109	R	46.690	very_low	yes
+110	110	T	44.560	very_low	yes
+111	111	Q	49.160	very_low	yes
+112	112	K	41.530	very_low	yes
+113	113	A	46.810	very_low	no
+114	114	R	41.780	very_low	no
+115	115	H	46.500	very_low	no
+116	116	C	55.910	low	no
+117	117	G	62.500	low	no
+118	118	H	85.250	confident	no
+119	119	C	93.310	very_high	no
+120	120	P	93.120	very_high	no
+121	121	E	90.060	very_high	no
+122	122	E	90.940	very_high	no
+123	123	W	95.310	very_high	no
+124	124	I	94.120	very_high	no
+125	125	T	94.120	very_high	no
+126	126	Y	94.190	very_high	no
+127	127	S	92.750	very_high	no
+128	128	N	92.560	very_high	no
+129	129	S	95.120	very_high	no
+130	130	C	96.500	very_high	no
+131	131	Y	97.620	very_high	no
+132	132	Y	97.880	very_high	no
+133	133	I	97.120	very_high	no
+134	134	G	96.810	very_high	no
+135	135	K	96.310	very_high	no
+136	136	E	97.560	very_high	no
+137	137	R	98.500	very_high	no
+138	138	R	98.560	very_high	no
+139	139	T	98.750	very_high	no
+140	140	W	98.620	very_high	no
+141	141	E	98.500	very_high	no
+142	142	E	98.750	very_high	no
+143	143	S	98.810	very_high	no
+144	144	L	98.380	very_high	no
+145	145	L	98.500	very_high	no
+146	146	A	98.620	very_high	no
+147	147	C	98.500	very_high	no
+148	148	T	97.880	very_high	no
+149	149	S	97.880	very_high	no
+150	150	K	96.940	very_high	no
+151	151	N	96.060	very_high	no
+152	152	S	97.060	very_high	no
+153	153	S	97.620	very_high	no
+154	154	L	98.250	very_high	no
+155	155	L	98.000	very_high	no
+156	156	S	96.380	very_high	no
+157	157	I	94.690	very_high	no
+158	158	D	92.380	very_high	no
+159	159	N	92.440	very_high	no
+160	160	E	93.120	very_high	no
+161	161	E	94.560	very_high	no
+162	162	E	95.060	very_high	no
+163	163	M	94.690	very_high	no
+164	164	K	95.060	very_high	no
+165	165	F	95.000	very_high	no
+166	166	L	95.940	very_high	no
+167	167	S	94.690	very_high	no
+168	168	I	95.750	very_high	no
+169	169	I	93.880	very_high	no
+170	170	S	95.190	very_high	no
+171	171	P	95.310	very_high	no
+172	172	S	97.250	very_high	no
+173	173	S	98.440	very_high	no
+174	174	W	98.620	very_high	no
+175	175	I	98.250	very_high	no
+176	176	G	98.120	very_high	no
+177	177	V	98.000	very_high	no
+178	178	F	97.380	very_high	no
+179	179	R	95.440	very_high	no
+180	180	N	92.810	very_high	no
+181	181	S	91.250	very_high	no
+182	182	S	87.940	confident	no
+183	183	H	86.310	confident	no
+184	184	H	92.190	very_high	no
+185	185	P	93.620	very_high	no
+186	186	W	96.060	very_high	no
+187	187	V	97.120	very_high	no
+188	188	T	97.060	very_high	no
+189	189	M	94.560	very_high	no
+190	190	N	92.250	very_high	no
+191	191	G	93.880	very_high	no
+192	192	L	95.310	very_high	no
+193	193	A	95.310	very_high	no
+194	194	F	94.940	very_high	no
+195	195	K	91.310	very_high	no
+196	196	H	91.440	very_high	no
+197	197	E	92.120	very_high	no
+198	198	I	94.250	very_high	no
+199	199	K	92.440	very_high	no
+200	200	D	85.620	confident	no
+201	201	S	79.560	confident	no
+202	202	D	77.810	confident	no
+203	203	N	80.750	confident	no
+204	204	A	79.060	confident	no
+205	205	E	89.500	confident	no
+206	206	L	95.560	very_high	no
+207	207	N	96.690	very_high	no
+208	208	C	97.940	very_high	no
+209	209	A	97.690	very_high	no
+210	210	V	97.880	very_high	no
+211	211	L	97.560	very_high	no
+212	212	Q	95.750	very_high	no
+213	213	V	93.120	very_high	no
+214	214	N	93.440	very_high	no
+215	215	R	94.750	very_high	no
+216	216	L	96.120	very_high	no
+217	217	K	96.120	very_high	no
+218	218	S	96.500	very_high	no
+219	219	A	97.060	very_high	no
+220	220	Q	96.880	very_high	no
+221	221	C	97.810	very_high	no
+222	222	G	97.810	very_high	no
+223	223	S	97.940	very_high	no
+224	224	S	98.440	very_high	no
+225	225	I	98.310	very_high	no
+226	226	I	98.500	very_high	no
+227	227	Y	98.690	very_high	no
+228	228	H	98.440	very_high	no
+229	229	C	98.380	very_high	no
+230	230	K	97.750	very_high	no
+231	231	H	95.060	very_high	no
+232	232	K	92.380	very_high	no
+233	233	L	88.690	confident	no
