@@ -1,0 +1,15 @@
+full_length_residue	nkg2a_aa	classification	sequence_priority	complex_rsa	exposure_class	interface_contact	screening_score	neighbors_within_6A	neighbors_6A	neighbors_within_8A	neighbors_8A	neighbors_within_10A	neighbors_10A	neighbors_within_12A	neighbors_12A	cluster_score
+217	K	pigtail_specific_difference	pigtail_specific_interest	0.1463	partially_exposed	yes	5	1	219	6	206,213,214,219,220,225	9	171,176,202,206,213,214,219,220,225	10	171,176,202,206,213,214,219,220,224,225	27
+219	A	pigtail_specific_difference	pigtail_specific_interest	0.1123	partially_exposed	no	7	4	206,217,220,225	5	202,206,217,220,225	6	202,206,217,220,224,225	9	171,176,202,206,213,217,220,224,225	26
+220	Q	pigtail_specific_difference	pigtail_specific_interest	0.3011	exposed	no	9	4	206,219,224,225	5	206,217,219,224,225	6	202,206,217,219,224,225	6	202,206,217,219,224,225	25
+225	I	human_pigtail_shared_difference	pigtail_specific_interest	0.0981	buried	no	5	3	219,220,224	5	171,217,219,220,224	7	171,206,213,217,219,220,224	8	171,176,206,213,217,219,220,224	23
+206	L	pigtail_specific_difference	pigtail_specific_interest	0.1802	partially_exposed	no	7	3	202,219,220	4	202,217,219,220	5	202,217,219,220,225	6	202,217,219,220,224,225	21
+213	V	pigtail_specific_difference	pigtail_specific_interest	0.5034	exposed	no	9	2	171,214	3	171,214,217	4	171,214,217,225	5	171,214,217,219,225	20
+171	P	macaque_shared_difference	moderate_macaque_interest	0.1427	partially_exposed	yes	7	2	213,214	3	213,214,225	4	213,214,217,225	6	213,214,217,219,224,225	19
+214	N	pigtail_specific_difference	pigtail_specific_interest	0.2750	exposed	no	9	2	171,213	3	171,213,217	3	171,213,217	3	171,213,217	18
+224	S	pigtail_specific_difference	pigtail_specific_interest	0.2812	exposed	yes	7	2	220,225	2	220,225	3	219,220,225	6	171,206,217,219,220,225	17
+202	D	pigtail_specific_difference	pigtail_specific_interest	0.2486	partially_exposed	no	7	1	206	2	206,219	4	206,217,219,220	4	206,217,219,220	15
+113	A	macaque_shared_difference	high_macaque_interest	1.0762	exposed	no	12	1	121	1	121	1	121	1	121	15
+121	E	pigtail_specific_difference	pigtail_specific_interest	0.4650	exposed	no	9	1	113	1	113	1	113	1	113	12
+148	T	macaque_shared_difference	moderate_macaque_interest	0.4741	exposed	no	11	0		0		0		1	176	12
+176	G	pigtail_specific_difference	pigtail_specific_interest	0.0850	buried	no	6	0		0		1	217	4	148,217,219,225	10

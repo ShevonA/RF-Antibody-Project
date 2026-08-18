@@ -1,0 +1,11 @@
+assembly_id	operation	label_asym_id	author_chain_id	entity_id	component	description
+1	1	A	A	1	HLA-E	HLA class I histocompatibility antigen, alpha chain E
+1	1	B	B	2	B2M	Beta-2-microglobulin
+1	1	C	J	3	CD94	Natural killer cells antigen CD94
+1	1	D	K	4	NKG2A	NKG2-A/NKG2-B type II integral membrane protein
+1	1	I	P	5	peptide	leader peptide of HLA class I histocompatibility antigen, alpha chain G
+2	1	E	C	1	HLA-E	HLA class I histocompatibility antigen, alpha chain E
+2	1	F	D	2	B2M	Beta-2-microglobulin
+2	1	G	E	3	CD94	Natural killer cells antigen CD94
+2	1	H	F	4	NKG2A	NKG2-A/NKG2-B type II integral membrane protein
+2	1	J	Q	5	peptide	leader peptide of HLA class I histocompatibility antigen, alpha chain G

@@ -1,0 +1,3 @@
+pdb_id	role	description	format	source_url	local_file	file_size_bytes	sha256	status
+3BDW	unliganded_receptor_reference	Human CD94/NKG2A receptor; 2.5 A X-ray structure	mmCIF	https://files.rcsb.org/download/3BDW.cif	structures\reference\3BDW.cif	437598	976845ae6a1997c06e60f267f19055c4beb84be68acfa5749c76881705a843db	downloaded
+3CDG	ligand_bound_primary_reference	Human CD94/NKG2A bound to HLA-E and leader peptide; 3.4 A X-ray structure	mmCIF	https://files.rcsb.org/download/3CDG.cif	structures\reference\3CDG.cif	1043833	f86d265b068c6e8faeea0a62fc7f078ff35636d31a2536facca1ea0b5251dfab	downloaded

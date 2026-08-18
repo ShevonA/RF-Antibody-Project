@@ -1,0 +1,15 @@
+pdb_id	assembly_id	nkg2a_chain	full_length_residue	nkg2a_aa	classification	sequence_priority	coordinate_residue_number	coordinate_present	nearest_glycan_chain	nearest_glycan_resname	nearest_glycan_residue	minimum_glycan_distance_A	nkg2a_atom	glycan_atom	within_5A_of_modeled_glycan	human_nkg2a_sequon_at_candidate
+3CDG	2	F	113	A	macaque_shared_difference	high_macaque_interest	113	yes							no	
+3CDG	2	F	121	E	pigtail_specific_difference	pigtail_specific_interest	121	yes							no	
+3CDG	2	F	148	T	macaque_shared_difference	moderate_macaque_interest	148	yes							no	
+3CDG	2	F	171	P	macaque_shared_difference	moderate_macaque_interest	171	yes							no	
+3CDG	2	F	176	G	pigtail_specific_difference	pigtail_specific_interest	176	yes							no	
+3CDG	2	F	202	D	pigtail_specific_difference	pigtail_specific_interest	202	yes							no	
+3CDG	2	F	206	L	pigtail_specific_difference	pigtail_specific_interest	206	yes							no	
+3CDG	2	F	213	V	pigtail_specific_difference	pigtail_specific_interest	213	yes							no	
+3CDG	2	F	214	N	pigtail_specific_difference	pigtail_specific_interest	214	yes							no	
+3CDG	2	F	217	K	pigtail_specific_difference	pigtail_specific_interest	217	yes							no	
+3CDG	2	F	219	A	pigtail_specific_difference	pigtail_specific_interest	219	yes							no	
+3CDG	2	F	220	Q	pigtail_specific_difference	pigtail_specific_interest	220	yes							no	
+3CDG	2	F	224	S	pigtail_specific_difference	pigtail_specific_interest	224	yes							no	
+3CDG	2	F	225	I	human_pigtail_shared_difference	pigtail_specific_interest	225	yes							no	

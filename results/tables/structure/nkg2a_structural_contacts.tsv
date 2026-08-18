@@ -1,0 +1,121 @@
+pdb_id	assembly_id	nkg2a_chain	auth_residue_number	full_length_residue	nkg2a_aa	candidate_specificity_position	classification	sequence_priority	distance_to_CD94_A	contact_CD94	distance_to_HLA_E_A	contact_HLA_E	distance_to_B2M_A	contact_B2M	distance_to_peptide_A	contact_peptide
+3CDG	2	F	113	113	A	yes	macaque_shared_difference	high_macaque_interest	5.934	no	24.039	no	44.325	no	26.434	no
+3CDG	2	F	114	114	R	no			3.065	yes	25.653	no	44.884	no	25.756	no
+3CDG	2	F	115	115	H	no			3.705	yes	25.378	no	44.429	no	24.838	no
+3CDG	2	F	116	116	C	no			2.038	yes	26.277	no	45.716	no	25.310	no
+3CDG	2	F	117	117	G	no			4.124	yes	29.408	no	48.577	no	28.165	no
+3CDG	2	F	118	118	H	no			3.574	yes	27.653	no	47.898	no	27.275	no
+3CDG	2	F	119	119	C	no			5.505	no	23.812	no	44.150	no	23.395	no
+3CDG	2	F	120	120	P	no			7.338	no	23.372	no	43.445	no	23.389	no
+3CDG	2	F	121	121	E	yes	pigtail_specific_difference	pigtail_specific_interest	5.241	no	22.402	no	41.989	no	22.305	no
+3CDG	2	F	122	122	E	no			3.268	yes	18.333	no	37.820	no	18.111	no
+3CDG	2	F	123	123	W	no			3.572	yes	19.794	no	39.349	no	18.982	no
+3CDG	2	F	124	124	I	no			3.279	yes	16.308	no	35.628	no	14.754	no
+3CDG	2	F	125	125	T	no			2.760	yes	18.564	no	40.134	no	19.296	no
+3CDG	2	F	126	126	Y	no			3.437	yes	13.503	no	37.820	no	17.794	no
+3CDG	2	F	127	127	S	no			5.517	no	18.594	no	41.747	no	21.004	no
+3CDG	2	F	128	128	N	no			6.895	no	21.820	no	44.829	no	24.062	no
+3CDG	2	F	129	129	S	no			7.737	no	20.993	no	41.984	no	21.115	no
+3CDG	2	F	130	130	C	no			7.870	no	19.640	no	40.691	no	20.023	no
+3CDG	2	F	131	131	Y	no			7.311	no	16.304	no	37.320	no	16.635	no
+3CDG	2	F	132	132	Y	no			7.564	no	13.996	no	34.823	no	15.138	no
+3CDG	2	F	133	133	I	no			3.888	yes	11.024	no	30.654	no	10.756	no
+3CDG	2	F	134	134	G	no			7.456	no	10.242	no	31.052	no	13.025	no
+3CDG	2	F	135	135	K	no			2.882	yes	6.338	no	27.804	no	10.690	no
+3CDG	2	F	136	136	E	no			9.404	no	8.082	no	29.373	no	12.851	no
+3CDG	2	F	137	137	R	no			10.945	no	2.863	yes	23.522	no	10.805	no
+3CDG	2	F	138	138	R	no			13.907	no	8.552	no	30.149	no	15.437	no
+3CDG	2	F	139	139	T	no			17.176	no	8.919	no	32.195	no	18.410	no
+3CDG	2	F	140	140	W	no			18.339	no	10.993	no	33.582	no	19.534	no
+3CDG	2	F	141	141	E	no			20.447	no	13.403	no	36.408	no	22.120	no
+3CDG	2	F	142	142	E	no			18.652	no	9.931	no	33.635	no	20.160	no
+3CDG	2	F	143	143	S	no			15.473	no	12.354	no	33.752	no	17.829	no
+3CDG	2	F	144	144	L	no			18.769	no	16.042	no	37.946	no	21.737	no
+3CDG	2	F	145	145	L	no			20.109	no	17.666	no	40.340	no	24.147	no
+3CDG	2	F	146	146	A	no			17.002	no	16.669	no	38.023	no	21.288	no
+3CDG	2	F	147	147	C	no			14.611	no	17.285	no	38.451	no	20.033	no
+3CDG	2	F	148	148	T	yes	macaque_shared_difference	moderate_macaque_interest	18.916	no	21.275	no	42.336	no	24.659	no
+3CDG	2	F	149	149	S	no			17.980	no	21.714	no	43.249	no	26.245	no
+3CDG	2	F	150	150	K	no			12.031	no	15.880	no	37.419	no	19.790	no
+3CDG	2	F	151	151	N	no			16.113	no	24.173	no	45.137	no	26.546	no
+3CDG	2	F	152	152	S	no			14.874	no	20.659	no	41.942	no	22.647	no
+3CDG	2	F	153	153	S	no			15.756	no	19.112	no	40.604	no	21.577	no
+3CDG	2	F	154	154	L	no			15.828	no	15.761	no	36.847	no	19.362	no
+3CDG	2	F	155	155	L	no			11.476	no	12.386	no	33.836	no	14.621	no
+3CDG	2	F	156	156	S	no			14.563	no	17.202	no	38.413	no	19.231	no
+3CDG	2	F	157	157	I	no			14.122	no	14.401	no	35.086	no	16.561	no
+3CDG	2	F	158	158	D	no			12.358	no	19.150	no	39.802	no	20.937	no
+3CDG	2	F	159	159	N	no			7.942	no	15.515	no	37.283	no	19.115	no
+3CDG	2	F	160	160	E	no			10.300	no	12.039	no	34.267	no	16.789	no
+3CDG	2	F	161	161	E	no			3.293	yes	11.590	no	35.281	no	16.865	no
+3CDG	2	F	162	162	E	no			7.834	no	13.034	no	35.029	no	15.394	no
+3CDG	2	F	163	163	M	no			9.607	no	9.967	no	31.349	no	12.917	no
+3CDG	2	F	164	164	K	no			4.578	no	3.785	yes	27.092	no	10.216	no
+3CDG	2	F	165	165	F	no			4.512	no	9.540	no	31.490	no	11.298	no
+3CDG	2	F	166	166	L	no			7.152	no	9.955	no	29.677	no	9.426	no
+3CDG	2	F	167	167	S	no			7.034	no	7.115	no	26.671	no	7.318	no
+3CDG	2	F	168	168	I	no			3.472	yes	5.618	no	27.624	no	7.296	no
+3CDG	2	F	169	169	I	no			2.724	yes	9.025	no	27.515	no	6.600	no
+3CDG	2	F	170	170	S	no			3.285	yes	6.453	no	26.670	no	6.513	no
+3CDG	2	F	171	171	P	yes	macaque_shared_difference	moderate_macaque_interest	3.737	yes	3.281	yes	23.231	no	3.900	yes
+3CDG	2	F	172	172	S	no			6.875	no	3.545	yes	24.647	no	7.147	no
+3CDG	2	F	173	173	S	no			9.436	no	6.892	no	28.186	no	10.643	no
+3CDG	2	F	174	174	W	no			12.200	no	9.492	no	30.751	no	14.087	no
+3CDG	2	F	175	175	I	no			14.407	no	13.139	no	33.887	no	16.411	no
+3CDG	2	F	176	176	G	yes	pigtail_specific_difference	pigtail_specific_interest	17.902	no	16.663	no	37.496	no	20.354	no
+3CDG	2	F	177	177	V	no			20.315	no	15.459	no	36.974	no	21.697	no
+3CDG	2	F	178	178	F	no			23.038	no	16.838	no	38.765	no	23.873	no
+3CDG	2	F	179	179	R	no			25.609	no	13.257	no	35.875	no	23.136	no
+3CDG	2	F	180	180	N	no			29.003	no	17.779	no	40.739	no	28.627	no
+3CDG	2	F	181	181	S	no			30.281	no	18.348	no	40.747	no	28.222	no
+3CDG	2	F	182	182	S	no			30.367	no	15.662	no	38.279	no	26.769	no
+3CDG	2	F	183	183	H	no			31.814	no	17.635	no	41.041	no	27.860	no
+3CDG	2	F	184	184	H	no			30.335	no	19.144	no	42.216	no	28.055	no
+3CDG	2	F	185	185	P	no			28.854	no	19.572	no	42.723	no	27.687	no
+3CDG	2	F	186	186	W	no			23.082	no	12.687	no	35.580	no	21.301	no
+3CDG	2	F	187	187	V	no			24.435	no	19.169	no	41.508	no	25.833	no
+3CDG	2	F	188	188	T	no			23.436	no	20.871	no	42.747	no	26.218	no
+3CDG	2	F	189	189	M	no			21.875	no	20.960	no	41.742	no	25.150	no
+3CDG	2	F	190	190	N	no			22.125	no	24.787	no	45.970	no	28.507	no
+3CDG	2	F	191	191	G	no			27.517	no	25.395	no	47.258	no	30.769	no
+3CDG	2	F	192	192	L	no			23.430	no	22.951	no	45.494	no	29.238	no
+3CDG	2	F	193	193	A	no			24.180	no	21.960	no	44.683	no	27.916	no
+3CDG	2	F	194	194	F	no			19.813	no	15.716	no	37.814	no	20.708	no
+3CDG	2	F	195	195	K	no			19.670	no	18.998	no	41.168	no	23.671	no
+3CDG	2	F	196	196	H	no			16.018	no	15.564	no	37.823	no	20.046	no
+3CDG	2	F	197	197	E	no			20.969	no	10.821	no	34.453	no	17.882	no
+3CDG	2	F	198	198	I	no			21.068	no	9.951	no	33.109	no	17.518	no
+3CDG	2	F	199	199	K	no			19.400	no	5.565	no	27.926	no	12.515	no
+3CDG	2	F	200	200	D	no			22.162	no	4.673	no	27.797	no	15.191	no
+3CDG	2	F	201	201	S	no			25.052	no	9.650	no	33.006	no	19.471	no
+3CDG	2	F	202	202	D	yes	pigtail_specific_difference	pigtail_specific_interest	26.596	no	11.654	no	34.134	no	22.261	no
+3CDG	2	F	203	203	N	no			27.175	no	8.425	no	30.593	no	21.303	no
+3CDG	2	F	204	204	A	no			28.927	no	12.059	no	34.760	no	24.856	no
+3CDG	2	F	205	205	E	no			24.805	no	9.296	no	32.137	no	22.161	no
+3CDG	2	F	206	206	L	yes	pigtail_specific_difference	pigtail_specific_interest	22.564	no	7.448	no	29.576	no	18.150	no
+3CDG	2	F	207	207	N	no			23.123	no	11.683	no	34.327	no	22.047	no
+3CDG	2	F	208	208	C	no			19.584	no	11.057	no	32.584	no	18.673	no
+3CDG	2	F	209	209	A	no			16.538	no	11.490	no	32.482	no	17.009	no
+3CDG	2	F	210	210	V	no			14.330	no	7.841	no	28.411	no	13.515	no
+3CDG	2	F	211	211	L	no			10.663	no	7.116	no	27.596	no	10.401	no
+3CDG	2	F	212	212	Q	no			11.642	no	3.753	yes	23.386	no	8.023	no
+3CDG	2	F	213	213	V	yes	pigtail_specific_difference	pigtail_specific_interest	8.981	no	5.327	no	22.649	no	4.947	no
+3CDG	2	F	214	214	N	yes	pigtail_specific_difference	pigtail_specific_interest	8.733	no	7.609	no	27.217	no	9.155	no
+3CDG	2	F	215	215	R	no			13.624	no	8.234	no	27.924	no	10.562	no
+3CDG	2	F	216	216	L	no			16.020	no	8.559	no	30.577	no	13.199	no
+3CDG	2	F	217	217	K	yes	pigtail_specific_difference	pigtail_specific_interest	16.307	no	2.994	yes	23.988	no	10.987	no
+3CDG	2	F	218	218	S	no			19.514	no	6.422	no	28.683	no	15.635	no
+3CDG	2	F	219	219	A	yes	pigtail_specific_difference	pigtail_specific_interest	17.757	no	7.341	no	28.803	no	15.789	no
+3CDG	2	F	220	220	Q	yes	pigtail_specific_difference	pigtail_specific_interest	19.538	no	6.301	no	29.476	no	17.958	no
+3CDG	2	F	221	221	C	no			20.987	no	9.470	no	32.444	no	20.468	no
+3CDG	2	F	222	222	G	no			20.027	no	6.858	no	30.637	no	19.628	no
+3CDG	2	F	223	223	S	no			17.230	no	4.734	no	27.039	no	16.234	no
+3CDG	2	F	224	224	S	yes	pigtail_specific_difference	pigtail_specific_interest	13.694	no	4.461	yes	26.061	no	13.390	no
+3CDG	2	F	225	225	I	yes	human_pigtail_shared_difference	pigtail_specific_interest	11.478	no	6.037	no	27.024	no	11.652	no
+3CDG	2	F	226	226	I	no			7.566	no	5.848	no	26.291	no	9.242	no
+3CDG	2	F	227	227	Y	no			10.094	no	10.011	no	30.809	no	13.378	no
+3CDG	2	F	228	228	H	no			6.659	no	9.060	no	30.327	no	10.686	no
+3CDG	2	F	229	229	C	no			11.117	no	15.335	no	36.654	no	17.252	no
+3CDG	2	F	230	230	K	no			12.430	no	18.393	no	39.860	no	19.927	no
+3CDG	2	F	231	231	H	no			11.647	no	21.313	no	42.706	no	22.464	no
+3CDG	2	F	232	232	K	no			10.619	no	24.685	no	46.076	no	25.758	no

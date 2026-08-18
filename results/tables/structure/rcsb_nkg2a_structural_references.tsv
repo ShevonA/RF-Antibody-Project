@@ -1,0 +1,17 @@
+pdb_id	search_matches	title	experimental_method	resolution_angstrom	initial_release_date	title_mentions_NKG2A	title_mentions_CD94	title_mentions_HLA_E
+2RMX	CD94 NKG2A;HLA-E NKG2A;KLRC1;NKG2A	Solution structure of the SHP-1 C-terminal SH2 domain complexed with a tyrosine-phosphorylated peptide from NKG2A	SOLUTION NMR		2008-12-02T00:00:00.000+00:00	yes	no	no
+2YU7	CD94 NKG2A;HLA-E NKG2A;KLRC1;NKG2A	Solution structure of the SHP-1 C-terminal SH2 domain complexed with a tyrosine-phosphorylated peptide from NKG2A	SOLUTION NMR		2008-04-15T00:00:00.000+00:00	yes	no	no
+3BDW	CD94 NKG2A;HLA-E NKG2A;KLRC1;NKG2A	Human CD94/NKG2A	X-RAY DIFFRACTION	2.5	2008-01-01T00:00:00.000+00:00	yes	yes	no
+3CDG	CD94 NKG2A;HLA-E NKG2A;KLRC1;NKG2A	Human CD94/NKG2A in complex with HLA-E	X-RAY DIFFRACTION	3.4	2008-04-22T00:00:00.000+00:00	yes	yes	yes
+3CII	CD94 NKG2A;HLA-E NKG2A;KLRC1;NKG2A	Structure of NKG2A/CD94 bound to HLA-E	X-RAY DIFFRACTION	4.41	2008-05-13T00:00:00.000+00:00	yes	yes	yes
+3VJ6	CD94 NKG2A;NKG2A	Structure of the MHC class Ib molecule Qa-1b	X-RAY DIFFRACTION	1.9	2012-03-14T00:00:00.000+00:00	no	no	no
+8P43	NKG2A	Structure of the MHC class Ib molecule Qa-1b in complex with Q001 peptide	X-RAY DIFFRACTION	2.43	2024-06-12T00:00:00.000+00:00	no	no	no
+8UMO	CD94 NKG2A;KLRC1;NKG2A	Murine CD94-NKG2A receptor in complex with Qa-1b presenting AMAPRTLLL	X-RAY DIFFRACTION	2.6	2024-01-17T00:00:00.000+00:00	yes	yes	no
+9LRA	NKG2A	Killer immunoglobulin receptor KIR2DL2 in complex with Pan2D Fab	X-RAY DIFFRACTION	2.6	2025-10-15T00:00:00.000+00:00	no	no	no
+9LRF	NKG2A	Killer immunoglobulin receptor KIR2DL2 in complex with KIR2DL2_KIR2DL2/3 agonist 61-Fab	X-RAY DIFFRACTION	2.5	2025-10-15T00:00:00.000+00:00	no	no	no
+9LRH	NKG2A	Killer immunoglobulin receptor KIR2DL2 in complex with KIR2DL2_KIR2DL2/3 agonist 61-scFv	X-RAY DIFFRACTION	3.4	2025-10-15T00:00:00.000+00:00	no	no	no
+9NW5	CD94 NKG2A;HLA-E NKG2A;NKG2A	3H4v31 anti-HLA-E-VL9 Fab	X-RAY DIFFRACTION	2.05	2026-03-25T00:00:00.000+00:00	no	no	yes
+9NW6	CD94 NKG2A;HLA-E NKG2A;NKG2A	CA147v24 Fab bound to HLA-E-VL9	X-RAY DIFFRACTION	3.1	2026-03-25T00:00:00.000+00:00	no	no	yes
+9NW7	CD94 NKG2A;HLA-E NKG2A;NKG2A	CA117v2v8 Fab bound to HLA-E-VL9	X-RAY DIFFRACTION	2.1	2026-03-25T00:00:00.000+00:00	no	no	yes
+9NW8	CD94 NKG2A;HLA-E NKG2A;NKG2A	CA117v2v8 Fab bound to HLA-E-Mtb44	X-RAY DIFFRACTION	2.3	2026-03-25T00:00:00.000+00:00	no	no	yes
+9NW9	CD94 NKG2A;HLA-E NKG2A;NKG2A	CA117v2v8 Fab bound to HLA-E-RL9HIV	X-RAY DIFFRACTION	2.3	2026-03-25T00:00:00.000+00:00	no	no	yes

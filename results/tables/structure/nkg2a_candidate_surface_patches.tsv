@@ -1,0 +1,4 @@
+patch_id	distance_cutoff_A	residue_count	residues	residue_labels	human_discriminatory_residues	rhesus_any_discriminatory_residues	rhesus_both_isoforms_discriminatory_residues	pigtail_discriminatory_residues	single_residue_pan_species_discriminators	exposed_residues	non_interface_residues	exposed_non_interface_residues	interface_residues	high_priority_residues	mean_complex_rsa	patch_priority
+patch_1	10.0	11	171,176,202,206,213,214,217,219,220,224,225	171P,176G,202D,206L,213V,214N,217K,219A,220Q,224S,225I	1	1	1	11	0	4	8	3	3	0	0.2158	cross_species_discriminatory_patch
+patch_2	10.0	2	113,121	113A,121E	0	1	1	2	0	2	2	2	0	1	0.7706	macaque_discriminatory_patch
+patch_3	10.0	1	148	148T	0	1	1	1	0	1	1	1	0	0	0.4741	macaque_discriminatory_patch
