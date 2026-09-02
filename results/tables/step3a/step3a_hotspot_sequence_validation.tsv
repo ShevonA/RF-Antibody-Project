@@ -1,0 +1,6 @@
+species	position_1based_full_length	expected_nkg2a_residue	observed_nkg2a_residue	validation_pass	validation_reason
+rhesus	113	A	A	yes	expected_residue_confirmed
+rhesus	148	A	A	yes	expected_residue_confirmed
+pigtail	113	A	A	yes	expected_residue_confirmed
+pigtail	121	K	K	yes	expected_residue_confirmed
+pigtail	148	T	T	yes	expected_residue_confirmed

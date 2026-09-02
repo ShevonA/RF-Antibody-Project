@@ -55,3 +55,5 @@ colabfold/outputs/
 
 # Archive of earlier trial work
 Archive of old trial/
+# Step 3A raw ColabFold result archives
+structures/models/step3a/raw/
