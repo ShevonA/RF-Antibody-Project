@@ -1,4 +1,4 @@
-# NKG2A Ectodomain Comparison — Step 1 Starter
+# NKG2A Ectodomain Comparison: Step 1 Starter
 
 ## Goal
 
@@ -20,7 +20,7 @@ Do not silently merge records from different sources.
 
 The rhesus JC records and the reviewed UniProt records are not identical. Their accession history, allele/transcript choice, and exact locus/paralog mapping must be resolved before the final panel is frozen.
 
-## Quick start — no network required
+## Quick start 
 
 From the project root:
 
