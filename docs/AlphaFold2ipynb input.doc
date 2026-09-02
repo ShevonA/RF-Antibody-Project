@@ -1,0 +1,37 @@
+query_sequence = MDNQGVIYSDLNLPPNPKRQQQKPKGNTSSILVTEQEITYAELNLQKTSQDFQGNDKTNHCKDLLSAPEKLIAGILGIICLVLMASVVTIVVIPSTLTQKHNNSSLNTRTQKARHCGHCPEEWITYSNSCYYIGKEKRTWAESLLACASKNSSLLSIDNEEEMKFLTAILTSSWIDVFRDSSHHPWVTINGLTFKHEIKESDHAEHNCAMLHVRGLFSDECGSSKIYHCKHKL
+jobname        = rhesus_NKG2A_NP_001028001_3
+
+template_mode  = pdb100
+msa_mode       = mmseqs2_uniref_env
+pair_mode      = unpaired_paired
+model_type     = auto
+num_recycles   = auto
+recycle_early_stop_tolerance = auto
+relax_max_iterations = 200
+pairing_strategy = greedy
+max_msa        = auto
+num_seeds      = 1
+use_dropout    = unchecked / false
+num_relax      = 0
+
+
+########Run All
+
+
+################Pigtail
+
+query_sequence = MDNQGVIYSDLNLPPNQKRQQQKPKGNSRSTLVTEQEITYAELNLQKTSQDFQGNDKTNHCKDLPSAPEKLIAGILGIIFLVLMASVVTIVVIPSTLTQKHNNSSLNTRSQKARHCGHCPKEWITYSNSCYYIGKEKRTWAESLLACTSKNSSLLSIDNEEEMKFLTAILSSSWIDVFRDSSHHPWVTINGLTFKHEIKESGHAERNCAMLHVRGLFSDECGSSKIYHCKHKL
+jobname        = pigtail_NKG2A_XP_070928357_1
+
+template_mode  = pdb100
+msa_mode       = mmseqs2_uniref_env
+pair_mode      = unpaired_paired
+model_type     = auto
+num_recycles   = auto
+recycle_early_stop_tolerance = auto
+relax_max_iterations = 200
+pairing_strategy = greedy
+max_msa        = auto
+num_seeds      = 1
+use_dropout    = unchecked / false
+num_relax      = 0
